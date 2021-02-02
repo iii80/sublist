@@ -1,3 +1,6 @@
 proxies:
   - {name: 一键连V2, server: node.er3.xyz, port: 11443, type: vmess, uuid: 3c3e05f0-54be-49af-a81b-f54a69bbfda7, alterId: 0, cipher: chacha20-poly1305, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: node.er3.xyz}}
   - {name: 新一键连V2, server: webchat.ytlxsh.cn, port: 11443, type: vmess, uuid: 3c3e05f0-54be-49af-a81b-f54a69bbfda7, alterId: 0, cipher: chacha20-poly1305, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: node.er3.xyz}}
+  - {name: 🇭🇰 ghelper-hkbn1, server: hkbn1.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇭🇰 ghelper-hkbn2, server: hkbn2.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇨🇳 ghelper-tw, server: tw.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
