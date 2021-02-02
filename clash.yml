@@ -35,3 +35,10 @@ proxies:
   - {name: 高速18, server: ap1-ca.er3.xyz, port: "29985", type: http, username: "404641112670601216", password: 2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, tls: true, skip-cert-verify: true}
   - {name: 高速19, server: ap1-ca.er3.xyz, port: "29980", type: http, username: "404641112670601216", password: 2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, tls: true, skip-cert-verify: true}
   - {name: 🇪🇸 一键连│VMESS2, server: webchat.ytlxsh.cn, port: 11443, type: vmess, uuid: 2ebcb6a0-432c-492a-899a-a5fb4bf4d23d, alterId: 0, cipher: chacha20-poly1305, tls: true, skip-cert-verify: false, network: ws, ws-path: /ray, ws-headers: {Host: node.er3.xyz}}
+  - {name: 🇨🇳 tw.ghelper.net:443/#Ghelper│台湾1, server: tw.ghelper.net, port: 443, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇨🇳 tw.ghelper.net:3389/#Ghelper│台湾2, server: tw.ghelper.net, port: 3389, type: http, tls: true, skip-cert-verify: false}
+  - {name: 🇯🇵 a1.ap.fastqvpn.com:29980/#ID1│一键连│日本, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 361959008229130240, password: ca1aa348-a878-4dd7-a193-04d8af2c722d, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 a2.ap.fastqvpn.com:29980/#ID1│一键连│新加坡1, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 361959008229130240, password: ca1aa348-a878-4dd7-a193-04d8af2c722d, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 a3.ap.fastqvpn.com:29980/#ID1│一键连│新加坡2, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 361959008229130240, password: ca1aa348-a878-4dd7-a193-04d8af2c722d, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 a4.ap.fastqvpn.com:29980/#ID1│一键连│新加坡3, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 361959008229130240, password: ca1aa348-a878-4dd7-a193-04d8af2c722d, tls: true, skip-cert-verify: false}
+  - {name: 🇺🇲 a5.ap.fastqvpn.com:29980/#ID1│一键连│美国, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: 361959008229130240, password: ca1aa348-a878-4dd7-a193-04d8af2c722d, tls: true, skip-cert-verify: false}
