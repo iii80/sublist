@@ -1,3 +1,10 @@
+shadowsocks = dg-hk-node01.discovpn.app:50025, method=aes-256-cfb, password=abK09D1FnV, ssr-protocol=auth_aes128_md5, ssr-protocol-param=134:GMy16PENTt, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=一键连香港A1-☞TG群@subssr
+shadowsocks = dg-hk-node02.discovpn.app:50050, method=aes-256-cfb, password=e5opjuLDEQ, ssr-protocol=auth_aes128_md5, ssr-protocol-param=134:GMy16PENTt, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=一键连香港A2-☞TG群@subssr
+http = a3.ap.fastqvpn.com:29980, username=404588903215923200, password=c112c273-d08a-4e87-87b2-d3a876a19765, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=一键连香港A3-☞TG群@subssr
+http = a2.ap.fastqvpn.com:29980, username=404588903215923200, password=c112c273-d08a-4e87-87b2-d3a876a19765, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=一键连香港A4-☞TG群@subssr
+http = a1.ap.fastqvpn.com:29980, username=404588903215923200, password=c112c273-d08a-4e87-87b2-d3a876a19765, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=一键连香港A5-☞TG群@baipiaov2
+http = a4.ap.fastqvpn.com:29980, username=404588903215923200, password=c112c273-d08a-4e87-87b2-d3a876a19765, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=一键连香港A6-☞TG群@subssr
+http = a5.ap.fastqvpn.com:29980, username=404588903215923200, password=c112c273-d08a-4e87-87b2-d3a876a19765, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=一键连香港A7-☞TG群@subssr
 http = www.simplefast.xyz:443, username=none, password=none, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=www.simplefast.xyz:443
 http = lax1.simplefast.xyz:443, username=none, password=none, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=lax1.simplefast.xyz:443
 http = lax2.simplefast.xyz:443, username=none, password=none, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=lax2.simplefast.xyz:443
