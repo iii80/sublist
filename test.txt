@@ -10,43 +10,43 @@ proxies:
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "409409248104022016"
-    password: 3ccf4721-0700-4b02-83d2-bd2d517646d7
+    username: "400038560352174080"
+    password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
   - name: 一键连高速节点298
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "409409248104022016"
-    password: 3ccf4721-0700-4b02-83d2-bd2d517646d7
+    username: "400038560352174080"
+    password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
   - name: 一键连高速节点29
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "409409248104022016"
-    password: 3ccf4721-0700-4b02-83d2-bd2d517646d7
+    username: "400038560352174080"
+    password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
   - name: 一键连高速节点30
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "409409248104022016"
-    password: 3ccf4721-0700-4b02-83d2-bd2d517646d7
+    username: "400038560352174080"
+    password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
   - name: 一键连高速节点31
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "409409248104022016"
-    password: 3ccf4721-0700-4b02-83d2-bd2d517646d7
+    username: "400038560352174080"
+    password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
   - name: 一键连高速节点32
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "409409248104022016"
-    password: 3ccf4721-0700-4b02-83d2-bd2d517646d7
+    username: "400038560352174080"
+    password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
   - name: 一键连高速节点33
     type: http
