@@ -6,49 +6,49 @@ log-level: info
 external-controller: 127.0.0.1:9090
 #欢迎加入我们的TG群@subssr
 proxies:
-  - name: 一键连高速节点297
+  - name: 高速节点297
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "400038560352174080"
     password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
-  - name: 一键连高速节点298
+  - name: 高速节点298
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "400038560352174080"
     password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
-  - name: 一键连高速节点29
+  - name: 高速节点29
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "400038560352174080"
     password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
-  - name: 一键连高速节点30
+  - name: 高速节点30
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "400038560352174080"
     password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
-  - name: 一键连高速节点31
+  - name: 高速节点31
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "400038560352174080"
     password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
-  - name: 一键连高速节点32
+  - name: 高速节点32
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "400038560352174080"
     password: 3c3e05f0-54be-49af-a81b-f54a69bbfda7
     tls: true
-  - name: 一键连高速节点33
+  - name: 高速节点33
     type: http
     server: ap1-ca.er3.xyz
     port: "29983"
@@ -56,49 +56,49 @@ proxies:
     password: e44724b4-9168-4289-b7da-91a95e76966a
     tls: true
     skip-cert-verify: true
-  - name: 一键连高速节点34
+  - name: 高速节点34
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "398622787905781760"
     password: e44724b4-9168-4289-b7da-91a95e76966a
     tls: true
-  - name: 一键连高速节点35
+  - name: 高速节点35
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "398622787905781760"
     password: e44724b4-9168-4289-b7da-91a95e76966a
     tls: true
-  - name: 一键连高速节点36
+  - name: 高速节点36
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "398622787905781760"
     password: e44724b4-9168-4289-b7da-91a95e76966a
     tls: true
-  - name: 一键连高速节点37
+  - name: 高速节点37
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "398622787905781760"
     password: e44724b4-9168-4289-b7da-91a95e76966a
     tls: true
-  - name: 一键连高速节点38
+  - name: 高速节点38
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "398622787905781760"
     password: e44724b4-9168-4289-b7da-91a95e76966a
     tls: true
-  - name: 一键连高速节点39
+  - name: 高速节点39
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "398622787905781760"
     password: e44724b4-9168-4289-b7da-91a95e76966a
     tls: true
-  - name: 一键连高速节点40
+  - name: 高速节点40
     type: http
     server: ap1-ca.er3.xyz
     port: "29983"
@@ -112,122 +112,122 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 一键连高速节点297
-      - 一键连高速节点298
-      - 一键连高速节点29
-      - 一键连高速节点30
-      - 一键连高速节点31
-      - 一键连高速节点32
-      - 一键连高速节点33
-      - 一键连高速节点34
-      - 一键连高速节点35
-      - 一键连高速节点36
-      - 一键连高速节点37
-      - 一键连高速节点38
-      - 一键连高速节点39
-      - 一键连高速节点40
+      - 高速节点297
+      - 高速节点298
+      - 高速节点29
+      - 高速节点30
+      - 高速节点31
+      - 高速节点32
+      - 高速节点33
+      - 高速节点34
+      - 高速节点35
+      - 高速节点36
+      - 高速节点37
+      - 高速节点38
+      - 高速节点39
+      - 高速节点40
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 一键连高速节点297
-      - 一键连高速节点298
-      - 一键连高速节点29
-      - 一键连高速节点30
-      - 一键连高速节点31
-      - 一键连高速节点32
-      - 一键连高速节点33
+      - 高速节点297
+      - 高速节点298
+      - 高速节点29
+      - 高速节点30
+      - 高速节点31
+      - 高速节点32
+      - 高速节点33
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 一键连高速节点297
-      - 一键连高速节点298
-      - 一键连高速节点29
-      - 一键连高速节点30
-      - 一键连高速节点31
-      - 一键连高速节点32
-      - 一键连高速节点33
-      - 一键连高速节点34
-      - 一键连高速节点35
-      - 一键连高速节点36
-      - 一键连高速节点37
-      - 一键连高速节点38
-      - 一键连高速节点39
-      - 一键连高速节点40
+      - 高速节点297
+      - 高速节点298
+      - 高速节点29
+      - 高速节点30
+      - 高速节点31
+      - 高速节点32
+      - 高速节点33
+      - 高速节点34
+      - 高速节点35
+      - 高速节点36
+      - 高速节点37
+      - 高速节点38
+      - 高速节点39
+      - 高速节点40
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 一键连高速节点297
-      - 一键连高速节点298
-      - 一键连高速节点29
-      - 一键连高速节点30
-      - 一键连高速节点31
-      - 一键连高速节点32
-      - 一键连高速节点33
-      - 一键连高速节点34
-      - 一键连高速节点35
-      - 一键连高速节点36
-      - 一键连高速节点37
-      - 一键连高速节点38
-      - 一键连高速节点39
-      - 一键连高速节点40
+      - 高速节点297
+      - 高速节点298
+      - 高速节点29
+      - 高速节点30
+      - 高速节点31
+      - 高速节点32
+      - 高速节点33
+      - 高速节点34
+      - 高速节点35
+      - 高速节点36
+      - 高速节点37
+      - 高速节点38
+      - 高速节点39
+      - 高速节点40
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 一键连高速节点297
-      - 一键连高速节点298
-      - 一键连高速节点29
-      - 一键连高速节点30
-      - 一键连高速节点31
-      - 一键连高速节点32
-      - 一键连高速节点33
-      - 一键连高速节点34
-      - 一键连高速节点35
-      - 一键连高速节点36
-      - 一键连高速节点37
-      - 一键连高速节点38
-      - 一键连高速节点39
-      - 一键连高速节点40
+      - 高速节点297
+      - 高速节点298
+      - 高速节点29
+      - 高速节点30
+      - 高速节点31
+      - 高速节点32
+      - 高速节点33
+      - 高速节点34
+      - 高速节点35
+      - 高速节点36
+      - 高速节点37
+      - 高速节点38
+      - 高速节点39
+      - 高速节点40
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 一键连高速节点297
-      - 一键连高速节点298
-      - 一键连高速节点29
-      - 一键连高速节点30
-      - 一键连高速节点31
-      - 一键连高速节点32
+      - 高速节点297
+      - 高速节点298
+      - 高速节点29
+      - 高速节点30
+      - 高速节点31
+      - 高速节点32
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 一键连高速节点297
-      - 一键连高速节点298
-      - 一键连高速节点29
-      - 一键连高速节点30
-      - 一键连高速节点31
-      - 一键连高速节点32
-      - 一键连高速节点33
-      - 一键连高速节点34
-      - 一键连高速节点35
-      - 一键连高速节点36
-      - 一键连高速节点37
-      - 一键连高速节点38
-      - 一键连高速节点39
-      - 一键连高速节点40
+      - 高速节点297
+      - 高速节点298
+      - 高速节点29
+      - 高速节点30
+      - 高速节点31
+      - 高速节点32
+      - 高速节点33
+      - 高速节点34
+      - 高速节点35
+      - 高速节点36
+      - 高速节点37
+      - 高速节点38
+      - 高速节点39
+      - 高速节点40
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -250,13 +250,13 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 一键连高速节点297
-      - 一键连高速节点298
-      - 一键连高速节点29
-      - 一键连高速节点30
-      - 一键连高速节点31
-      - 一键连高速节点32
-      - 一键连高速节点33
+      - 高速节点297
+      - 高速节点298
+      - 高速节点29
+      - 高速节点30
+      - 高速节点31
+      - 高速节点32
+      - 高速节点33
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
