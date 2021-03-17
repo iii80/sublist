@@ -830,7 +830,7 @@ proxies:
     tls: true
     skip-cert-verify: true
   - name: 德国高速节点1
-    server: ap1-de.er3.xyz
+    server: ap1-ge.er3.xyz
     port: 29980
     type: http
     username: "414555270656557056"
@@ -838,7 +838,7 @@ proxies:
     tls: true
     skip-cert-verify: true
   - name: 德国高速节点2
-    server: ap1-de.er3.xyz
+    server: ap1-ge.er3.xyz
     port: 29982
     type: http
     username: "414555270656557056"
@@ -846,7 +846,7 @@ proxies:
     tls: true
     skip-cert-verify: true
   - name: 德国高速节点3
-    server: ap1-de.er3.xyz
+    server: ap1-ge.er3.xyz
     port: 29983
     type: http
     username: "414555270656557056"
@@ -854,7 +854,7 @@ proxies:
     tls: true
     skip-cert-verify: true
   - name: 德国高速节点4
-    server: ap1-de.er3.xyz
+    server: ap1-ge.er3.xyz
     port: 29984
     type: http
     username: "414555270656557056"
@@ -862,7 +862,7 @@ proxies:
     tls: true
     skip-cert-verify: true
   - name: 德国高速节点5
-    server: ap1-de.er3.xyz
+    server: ap1-ge.er3.xyz
     port: 29985
     type: http
     username: "414555270656557056"
@@ -870,7 +870,7 @@ proxies:
     tls: true
     skip-cert-verify: true
   - name: 德国高速节点6
-    server: ap1-de.er3.xyz
+    server: ap1-ge.er3.xyz
     port: 29986
     type: http
     username: "414555270656557056"
