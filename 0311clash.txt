@@ -639,43 +639,43 @@ proxies:
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "374161162251534336"
-    password: d8beb02c-e2e0-4bc1-a607-22346cbc9b2f
+    username: "420831234684354560"
+    password: ffa9a8af-6cdc-442e-b9f7-d8068e5a37e6
     tls: true
   - name: TG群https://t.me/subssr高速节点92
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "374161162251534336"
-    password: d8beb02c-e2e0-4bc1-a607-22346cbc9b2f
+    username: "420831234684354560"
+    password: ffa9a8af-6cdc-442e-b9f7-d8068e5a37e6
     tls: true
   - name: TG群https://t.me/subssr高速节点93
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "374161162251534336"
-    password: d8beb02c-e2e0-4bc1-a607-22346cbc9b2f
+    username: "420831234684354560"
+    password: ffa9a8af-6cdc-442e-b9f7-d8068e5a37e6
     tls: true
   - name: TG群https://t.me/subssr高速节点94
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "374161162251534336"
-    password: d8beb02c-e2e0-4bc1-a607-22346cbc9b2f
+    username: "420831234684354560"
+    password: ffa9a8af-6cdc-442e-b9f7-d8068e5a37e6
     tls: true
   - name: TG群https://t.me/subssr高速节点95
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "374161162251534336"
-    password: d8beb02c-e2e0-4bc1-a607-22346cbc9b2f
+    username: "420831234684354560"
+    password: ffa9a8af-6cdc-442e-b9f7-d8068e5a37e6
     tls: true
   - name: TG群https://t.me/subssr高速节点96
     server: global.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "374161162251534336"
-    password: d8beb02c-e2e0-4bc1-a607-22346cbc9b2f
+    username: "420831234684354560"
+    password: ffa9a8af-6cdc-442e-b9f7-d8068e5a37e6
     tls: true
   - name: 日本高速节点1
     server: ap1-jp.er3.xyz
