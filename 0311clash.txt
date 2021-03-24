@@ -83,7 +83,7 @@ proxies:
     password: e87991b8-2455-430d-bbbc-633a5bc2b935
     tls: true
   - name: TG群https://t.me/subssr高速节点12
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "393177908073463808"
@@ -125,7 +125,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点18
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -167,7 +167,7 @@ proxies:
     password: e87991b8-2455-430d-bbbc-633a5bc2b935
     tls: true
   - name: TG群https://t.me/subssr高速节点24
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "393177908073463808"
@@ -209,7 +209,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点30
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -251,7 +251,7 @@ proxies:
     password: 55842c8a-5251-4b54-a6ed-bbb7e917f9d9
     tls: true
   - name: TG群https://t.me/subssr高速节点36
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "416925204208418816"
@@ -293,7 +293,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点42
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -335,7 +335,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点48
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -377,7 +377,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点54
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -419,7 +419,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点60
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -461,7 +461,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点66
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -503,7 +503,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点72
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -545,7 +545,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点78
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -587,7 +587,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点84
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -629,7 +629,7 @@ proxies:
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
     tls: true
   - name: TG群https://t.me/subssr高速节点90
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -671,7 +671,7 @@ proxies:
     password: 35e7ecf5-416f-417b-9014-448b058c9a3d
     tls: true
   - name: TG群https://t.me/subssr高速节点96
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "405349539596206080"
@@ -974,7 +974,7 @@ proxies:
     tls: true
     skip-cert-verify: true
   - name: 香港高速1
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "403654808050860032"
@@ -982,43 +982,43 @@ proxies:
     tls: true
     skip-cert-verify: true
   - name: 香港高速2
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29982
     type: http
     username: "403654808050860032"
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
   - name: 香港高速3
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29983
     type: http
     username: "403654808050860032"
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
   - name: 美国高速1
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29984
     type: http
     username: "403654808050860032"
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
   - name: 美国高速4
-    server: global.ap.fastqvpn.com
-    port: 2998
+    server: ap1-jp.er3.xyz
+    port: 29985
     type: http
     username: "403654808050860032"
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
   - name: 美国高速6
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29986
     type: http
     username: "403654808050860032"
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
   - name: 日本高速1
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29987
     type: http
     username: "403654808050860032"
     password: ca583820-86f5-4096-a25b-b1ecd3c8cafc
   - name: 日本高速2
-    server: global.ap.fastqvpn.com
+    server: ap1-jp.er3.xyz
     port: 29988
     type: http
     username: "403654808050860032"
