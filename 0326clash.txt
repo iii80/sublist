@@ -5,679 +5,679 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - name: @subssr欢迎加入我们TG群高速节点1
+  - name: 高速节点1
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点2
+  - name: 高速节点2
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点3
+  - name: 高速节点3
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点4
+  - name: 高速节点4
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点5
+  - name: 高速节点5
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点6
+  - name: 高速节点6
     server: ap1-ge.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点7
+  - name: 高速节点7
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点8
+  - name: 高速节点8
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点9
+  - name: 高速节点9
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点10
+  - name: 高速节点10
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点11
+  - name: 高速节点11
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点12
+  - name: 高速节点12
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点13
+  - name: 高速节点13
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点14
+  - name: 高速节点14
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点15
+  - name: 高速节点15
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点16
+  - name: 高速节点16
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点17
+  - name: 高速节点17
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点18
+  - name: 高速节点18
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点19
+  - name: 高速节点19
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点20
+  - name: 高速节点20
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点21
+  - name: 高速节点21
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点22
+  - name: 高速节点22
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点23
+  - name: 高速节点23
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点24
+  - name: 高速节点24
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点25
+  - name: 高速节点25
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点26
+  - name: 高速节点26
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点27
+  - name: 高速节点27
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点28
+  - name: 高速节点28
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点29
+  - name: 高速节点29
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点30
+  - name: 高速节点30
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点31
+  - name: 高速节点31
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点32
+  - name: 高速节点32
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点33
+  - name: 高速节点33
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点34
+  - name: 高速节点34
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点35
+  - name: 高速节点35
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点36
+  - name: 高速节点36
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点37
+  - name: 高速节点37
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点38
+  - name: 高速节点38
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点39
+  - name: 高速节点39
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点40
+  - name: 高速节点40
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点41
+  - name: 高速节点41
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点42
+  - name: 高速节点42
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点43
+  - name: 高速节点43
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点44
+  - name: 高速节点44
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点45
+  - name: 高速节点45
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点46
+  - name: 高速节点46
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点47
+  - name: 高速节点47
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点48
+  - name: 高速节点48
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点49
+  - name: 高速节点49
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点50
+  - name: 高速节点50
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点51
+  - name: 高速节点51
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点52
+  - name: 高速节点52
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点53
+  - name: 高速节点53
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点54
+  - name: 高速节点54
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点55
+  - name: 高速节点55
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点56
+  - name: 高速节点56
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点57
+  - name: 高速节点57
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点58
+  - name: 高速节点58
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点59
+  - name: 高速节点59
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点60
+  - name: 高速节点60
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点61
+  - name: 高速节点61
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点62
+  - name: 高速节点62
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点63
+  - name: 高速节点63
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点64
+  - name: 高速节点64
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点65
+  - name: 高速节点65
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点66
+  - name: 高速节点66
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点67
+  - name: 高速节点67
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点68
+  - name: 高速节点68
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点69
+  - name: 高速节点69
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点70
+  - name: 高速节点70
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点71
+  - name: 高速节点71
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点72
+  - name: 高速节点72
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点73
+  - name: 高速节点73
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点74
+  - name: 高速节点74
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点75
+  - name: 高速节点75
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点76
+  - name: 高速节点76
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点77
+  - name: 高速节点77
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点78
+  - name: 高速节点78
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点79
+  - name: 高速节点79
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点80
+  - name: 高速节点80
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点81
+  - name: 高速节点81
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点82
+  - name: 高速节点82
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点83
+  - name: 高速节点83
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点84
+  - name: 高速节点84
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点85
+  - name: 高速节点85
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点86
+  - name: 高速节点86
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点87
+  - name: 高速节点87
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点88
+  - name: 高速节点88
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点89
+  - name: 高速节点89
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点90
+  - name: 高速节点90
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点91
+  - name: 高速节点91
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点92
+  - name: 高速节点92
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点93
+  - name: 高速节点93
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点94
+  - name: 高速节点94
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点95
+  - name: 高速节点95
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群高速节点96
+  - name: 高速节点96
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本高速节点1
+  - name: 日本高速节点1
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
@@ -685,7 +685,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群日本高速节点2
+  - name: 日本高速节点2
     server: ap1-jp.er3.xyz
     port: 29982
     type: http
@@ -693,7 +693,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群日本高速节点3
+  - name: 日本高速节点3
     server: ap1-jp.er3.xyz
     port: 29983
     type: http
@@ -701,7 +701,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群日本高速节点4
+  - name: 日本高速节点4
     server: ap1-jp.er3.xyz
     port: 29984
     type: http
@@ -709,7 +709,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群日本高速节点5
+  - name: 日本高速节点5
     server: ap1-jp.er3.xyz
     port: 29985
     type: http
@@ -717,7 +717,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群日本高速节点6
+  - name: 日本高速节点6
     server: ap1-jp.er3.xyz
     port: 29986
     type: http
@@ -725,7 +725,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群日本高速节点7
+  - name: 日本高速节点7
     type: http
     server: ap1-jp.er3.xyz
     port: "29987"
@@ -733,7 +733,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群新加坡高速节点1
+  - name: 新加坡高速节点1
     server: ap1-us.er3.xyz
     port: 29980
     type: http
@@ -741,7 +741,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群新加坡高速节点2
+  - name: 新加坡高速节点2
     server: ap1-us.er3.xyz
     port: 29982
     type: http
@@ -749,7 +749,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群新加坡高速节点3
+  - name: 新加坡高速节点3
     server: ap1-us.er3.xyz
     port: 29983
     type: http
@@ -757,7 +757,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群新加坡高速节点4
+  - name: 新加坡高速节点4
     server: ap1-us.er3.xyz
     port: 29984
     type: http
@@ -765,7 +765,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群新加坡高速节点5
+  - name: 新加坡高速节点5
     server: ap1-us.er3.xyz
     port: 29985
     type: http
@@ -773,7 +773,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群新加坡高速节点6
+  - name: 新加坡高速节点6
     server: ap1-us.er3.xyz
     port: 29986
     type: http
@@ -781,7 +781,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群英国高速节点1
+  - name: 英国高速节点1
     server: ap1-uk.er3.xyz
     port: 29980
     type: http
@@ -789,7 +789,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群英国高速节点2
+  - name: 英国高速节点2
     server: ap1-uk.er3.xyz
     port: 29982
     type: http
@@ -797,7 +797,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群英国高速节点3
+  - name: 英国高速节点3
     server: ap1-uk.er3.xyz
     port: 29983
     type: http
@@ -805,7 +805,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群英国高速节点4
+  - name: 英国高速节点4
     server: ap1-uk.er3.xyz
     port: 29984
     type: http
@@ -813,7 +813,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群英国高速节点5
+  - name: 英国高速节点5
     server: ap1-uk.er3.xyz
     port: 29985
     type: http
@@ -821,7 +821,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群英国高速节点6
+  - name: 英国高速节点6
     server: ap1-uk.er3.xyz
     port: 29986
     type: http
@@ -829,7 +829,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群德国高速节点1
+  - name: 德国高速节点1
     server: ap1-ge.er3.xyz
     port: 29980
     type: http
@@ -837,7 +837,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群德国高速节点2
+  - name: 德国高速节点2
     server: ap1-ge.er3.xyz
     port: 29982
     type: http
@@ -845,7 +845,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群德国高速节点3
+  - name: 德国高速节点3
     server: ap1-ge.er3.xyz
     port: 29983
     type: http
@@ -853,7 +853,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群德国高速节点4
+  - name: 德国高速节点4
     server: ap1-ge.er3.xyz
     port: 29984
     type: http
@@ -861,7 +861,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群德国高速节点5
+  - name: 德国高速节点5
     server: ap1-ge.er3.xyz
     port: 29985
     type: http
@@ -869,7 +869,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群德国高速节点6
+  - name: 德国高速节点6
     server: ap1-ge.er3.xyz
     port: 29986
     type: http
@@ -877,7 +877,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群加拿大高速节点1
+  - name: 加拿大高速节点1
     server: ap1-ca.er3.xyz
     port: 29980
     type: http
@@ -885,7 +885,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群加拿大高速节点2
+  - name: 加拿大高速节点2
     server: ap1-ca.er3.xyz
     port: 29982
     type: http
@@ -893,7 +893,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群加拿大高速节点3
+  - name: 加拿大高速节点3
     server: ap1-ca.er3.xyz
     port: 29983
     type: http
@@ -901,7 +901,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群加拿大高速节点4
+  - name: 加拿大高速节点4
     server: ap1-ca.er3.xyz
     port: 29984
     type: http
@@ -909,7 +909,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群加拿大高速节点5
+  - name: 加拿大高速节点5
     server: ap1-ca.er3.xyz
     port: 29985
     type: http
@@ -917,7 +917,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群加拿大高速节点6
+  - name: 加拿大高速节点6
     server: ap1-ca.er3.xyz
     port: 29986
     type: http
@@ -925,7 +925,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群澳大利亚高速节点1
+  - name: 澳大利亚高速节点1
     server: ap1-au.er3.xyz
     port: 29980
     type: http
@@ -933,7 +933,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群澳大利亚高速节点2
+  - name: 澳大利亚高速节点2
     server: ap1-au.er3.xyz
     port: 29982
     type: http
@@ -941,7 +941,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群澳大利亚高速节点3
+  - name: 澳大利亚高速节点3
     server: ap1-au.er3.xyz
     port: 29983
     type: http
@@ -949,7 +949,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群澳大利亚高速节点4
+  - name: 澳大利亚高速节点4
     server: ap1-au.er3.xyz
     port: 29984
     type: http
@@ -957,7 +957,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群澳大利亚高速节点5
+  - name: 澳大利亚高速节点5
     server: ap1-au.er3.xyz
     port: 29985
     type: http
@@ -965,7 +965,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群澳大利亚高速节点6
+  - name: 澳大利亚高速节点6
     server: ap1-au.er3.xyz
     port: 29986
     type: http
@@ -973,7 +973,7 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群香港高速1
+  - name: 香港高速1
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
@@ -981,199 +981,199 @@ proxies:
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
     skip-cert-verify: true
-  - name: @subssr欢迎加入我们TG群香港高速2
+  - name: 香港高速2
     server: ap1-jp.er3.xyz
     port: 29982
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群香港高速3
+  - name: 香港高速3
     server: ap1-jp.er3.xyz
     port: 29983
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国高速1
+  - name: 美国高速1
     server: ap1-jp.er3.xyz
     port: 29984
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国高速4
+  - name: 美国高速4
     server: ap1-jp.er3.xyz
     port: 29985
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国高速6
+  - name: 美国高速6
     server: ap1-jp.er3.xyz
     port: 29986
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本高速1
+  - name: 日本高速1
     server: ap1-jp.er3.xyz
     port: 29987
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本高速2
+  - name: 日本高速2
     server: ap1-jp.er3.xyz
     port: 29988
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本高速3
+  - name: 日本高速3
     server: tx.wy.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国高速2
+  - name: 美国高速2
     server: tx.wy.fastqvpn.com
     port: 29982
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国高速3
+  - name: 美国高速3
     server: tx.wy.fastqvpn.com
     port: 29983
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国高速5
+  - name: 美国高速5
     server: tx.wy.fastqvpn.com
     port: 29984
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本高速4
+  - name: 日本高速4
     server: tx.wy.fastqvpn.com
     port: 29985
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本高速5
+  - name: 日本高速5
     server: tx.wy.fastqvpn.com
     port: 29986
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本高速6
+  - name: 日本高速6
     server: tx.wy.fastqvpn.com
     port: 29987
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国极速1
+  - name: 美国极速1
     server: tx.wy.fastqvpn.com
     port: 29988
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国极速2
+  - name: 美国极速2
     server: tx.wy.fastqvpn.com
     port: 29980
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国极速3
+  - name: 美国极速3
     server: tx.wy.fastqvpn.com
     port: 29982
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国极速4
+  - name: 美国极速4
     server: tx.wy.fastqvpn.com
     port: 29983
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群美国极速5
+  - name: 美国极速5
     server: tx.wy.fastqvpn.com
     port: 29984
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群香港极速1
+  - name: 香港极速1
     server: tx.wy.fastqvpn.com
     port: 29985
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本极速1
+  - name: 日本极速1
     server: tx.wy.fastqvpn.com
     port: 29986
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群日本极速2
+  - name: 日本极速2
     server: tx.wy.fastqvpn.com
     port: 29987
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群印度极速1
+  - name: 印度极速1
     server: tx.wy.fastqvpn.com
     port: 29988
     type: http
     username: "424266815468732416"
     password: 1726590a-cfd0-4bb8-948a-013b3718d903
     tls: true
-  - name: @subssr欢迎加入我们TG群新加坡极速
+  - name: 新加坡极速
     type: http
     server: ext-sg.stackpath.ws
     port: "443"
     tls: true
     skip-cert-verify: false
-  - name: @subssr欢迎加入我们TG群澳大利亚极速
+  - name: 澳大利亚极速
     type: http
     server: ext-au.stackpath.ws
     port: "443"
     tls: true
     skip-cert-verify: false
-  - name: @subssr欢迎加入我们TG群德国极速
+  - name: 德国极速
     type: http
     server: ext-de.stackpath.ws
     port: "443"
     tls: true
     skip-cert-verify: false
-  - name: @subssr欢迎加入我们TG群英国极速
+  - name: 英国极速
     type: http
     server: ext-uk.stackpath.ws
     port: "443"
     tls: true
     skip-cert-verify: false
-  - name: @subssr欢迎加入我们TG群荷兰极速
+  - name: 荷兰极速
     type: http
     server: ext-nl.stackpath.ws
     port: "443"
     tls: true
     skip-cert-verify: false
 proxy-groups:
-  - name: @subssr欢迎加入我们TG群🚀 节点选择
+  - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
@@ -1345,7 +1345,7 @@ proxy-groups:
       - 德国极速
       - 英国极速
       - 荷兰极速
-  - name: @subssr欢迎加入我们TG群♻️ 自动选择
+  - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
@@ -1518,7 +1518,7 @@ proxy-groups:
       - 德国极速
       - 英国极速
       - 荷兰极速
-  - name: @subssr欢迎加入我们TG群🌍 国外媒体
+  - name: 🌍 国外媒体
     type: select
     proxies:
       - 高速节点1
@@ -1688,7 +1688,7 @@ proxy-groups:
       - 德国极速
       - 英国极速
       - 荷兰极速
-  - name: @subssr欢迎加入我们TG群📲 电报信息
+  - name: 📲 电报信息
     type: select
     proxies:
       - 高速节点1
@@ -1858,7 +1858,7 @@ proxy-groups:
       - 德国极速
       - 英国极速
       - 荷兰极速
-  - name: @subssr欢迎加入我们TG群Ⓜ️ 微软服务
+  - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 高速节点1
@@ -2028,7 +2028,7 @@ proxy-groups:
       - 德国极速
       - 英国极速
       - 荷兰极速
-  - name: @subssr欢迎加入我们TG群🍎 苹果服务
+  - name: 🍎 苹果服务
     type: select
     proxies:
       - 高速节点1
@@ -2198,7 +2198,7 @@ proxy-groups:
       - 德国极速
       - 英国极速
       - 荷兰极速
-  - name: @subssr欢迎加入我们TG群📢 谷歌FCM
+  - name: 📢 谷歌FCM
     type: select
     proxies:
       - 高速节点1
@@ -2368,23 +2368,23 @@ proxy-groups:
       - 德国极速
       - 英国极速
       - 荷兰极速
-  - name: @subssr欢迎加入我们TG群🎯 全球直连
+  - name: 🎯 全球直连
     type: select
     proxies:
       - DIRECT
       - 🚀 节点选择
       - ♻️ 自动选择
-  - name: @subssr欢迎加入我们TG群🛑 全球拦截
+  - name: 🛑 全球拦截
     type: select
     proxies:
       - REJECT
       - DIRECT
-  - name: @subssr欢迎加入我们TG群🍃 应用净化
+  - name: 🍃 应用净化
     type: select
     proxies:
       - REJECT
       - DIRECT
-  - name: @subssr欢迎加入我们TG群🐟 漏网之鱼
+  - name: 🐟 漏网之鱼
     type: select
     proxies:
       - 🚀 节点选择
