@@ -12,7 +12,7 @@ proxies:
     tls: true
   - name: 高速节点2
     server: cm-hk.stunnel.vip
-    port: 47700
+    port: 4700
     type: http
     tls: true
   - name: 高速节点3
