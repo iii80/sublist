@@ -16,39 +16,39 @@ proxies:
     type: http
     tls: true
   - name: 高速节点3
-    server: a3.ap.fastqvpn.com
-    port: 29980
+    server: cm-hk.stunnel.vip
+    port: 4700
     type: http
-    username: "424266815468732416"
-    password: 1726590a-cfd0-4bb8-948a-013b3718d903
+    username: "15c4db0c-48fe-11eb-a8bf-f23c91cfbbc9"
+    password: d5ff023a9203aede1cc0092a0bd607b8
     tls: true
   - name: 高速节点4
-    server: a4.ap.fastqvpn.com
-    port: 29980
+    server: hkbn-home.ghelper.net
+    port: 443
     type: http
-    username: "424266815468732416"
-    password: 1726590a-cfd0-4bb8-948a-013b3718d903
+    username: "15c4db0c-48fe-11eb-a8bf-f23c91cfbbc9"
+    password: d5ff023a9203aede1cc0092a0bd607b8
     tls: true
   - name: 高速节点5
-    server: a5.ap.fastqvpn.com
-    port: 29980
+    server: seattle.tcpbbr.net
+    port: 443
     type: http
-    username: "424266815468732416"
-    password: 1726590a-cfd0-4bb8-948a-013b3718d903
+    username: "15c4db0c-48fe-11eb-a8bf-f23c91cfbbc9"
+    password: d5ff023a9203aede1cc0092a0bd607b8
     tls: true
   - name: 高速节点6
-    server: ap1-ge.er3.xyz
-    port: 29980
+    server: cm-us.stunnel.vip
+    port: 3300
     type: http
-    username: "424266815468732416"
-    password: 1726590a-cfd0-4bb8-948a-013b3718d903
+    username: "15c4db0c-48fe-11eb-a8bf-f23c91cfbbc9"
+    password: d5ff023a9203aede1cc0092a0bd607b8
     tls: true
   - name: 高速节点7
-    server: a1.ap.fastqvpn.com
-    port: 29980
+    server: us-01.ghelper.net
+    port: 443
     type: http
-    username: "424266815468732416"
-    password: 1726590a-cfd0-4bb8-948a-013b3718d903
+    username: "15c4db0c-48fe-11eb-a8bf-f23c91cfbbc9"
+    password: d5ff023a9203aede1cc0092a0bd607b8
     tls: true
   - name: 高速节点8
     server: a2.ap.fastqvpn.com
