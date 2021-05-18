@@ -5,82 +5,77 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: bgp1.gemgems.net:10441, server: bgp1.gemgems.net, port: 10441, type: ss, cipher: aes-256-gcm, password: Wk7vL9e3jN8C}
-  - {name: bgp1.gemgems.net:18513, server: bgp1.gemgems.net, port: 18513, type: ss, cipher: aes-256-gcm, password: ipZAmyss2mPB}
-  - {name: bgp1.gemgems.net:9300, server: bgp1.gemgems.net, port: 9300, type: ss, cipher: aes-256-gcm, password: 3wf6HllIYs0d}
-  - {name: bgp1.gemgems.net:9123, server: bgp1.gemgems.net, port: 9123, type: ss, cipher: aes-256-gcm, password: ei0UmSE2sO76}
-  - {name: bgp1.gemgems.net:15202, server: bgp1.gemgems.net, port: 15202, type: ss, cipher: aes-256-gcm, password: h5B3sCrTFjD9}
-  - {name: bgp4.gemgems.net:10441, server: bgp4.gemgems.net, port: 10441, type: ss, cipher: aes-256-gcm, password: Wk7vL9e3jN8C}
-  - {name: bgp4.gemgems.net:18513, server: bgp4.gemgems.net, port: 18513, type: ss, cipher: aes-256-gcm, password: ipZAmyss2mPB}
-  - {name: bgp4.gemgems.net:9300, server: bgp4.gemgems.net, port: 9300, type: ss, cipher: aes-256-gcm, password: 3wf6HllIYs0d}
-  - {name: bgp4.gemgems.net:9123, server: bgp4.gemgems.net, port: 9123, type: ss, cipher: aes-256-gcm, password: ei0UmSE2sO76}
-  - {name: bgp4.gemgems.net:15202, server: bgp4.gemgems.net, port: 15202, type: ss, cipher: aes-256-gcm, password: h5B3sCrTFjD9}
+  - {name: bgp1.gemgems.net:13925, server: bgp1.gemgems.net, port: 13925, type: ss, cipher: aes-256-gcm, password: NQ2H6EvQT7rIoqVl}
+  - {name: bgp1.gemgems.net:15388, server: bgp1.gemgems.net, port: 15388, type: ss, cipher: aes-256-gcm, password: aJQiv8hsiYV3NzmS}
+  - {name: bgp1.gemgems.net:14616, server: bgp1.gemgems.net, port: 14616, type: ss, cipher: aes-256-gcm, password: B1vXvRHAtGIcPE5l}
+  - {name: bgp1.gemgems.net:9921, server: bgp1.gemgems.net, port: 9921, type: ss, cipher: aes-256-gcm, password: wv2y9LS8uwVmLmvK}
+  - {name: bgp1.gemgems.net:12947, server: bgp1.gemgems.net, port: 12947, type: ss, cipher: aes-256-gcm, password: LhaehkQuP5i0z7G6}
+  - {name: bgp1.gemgems.net:17680, server: bgp1.gemgems.net, port: 17680, type: ss, cipher: aes-256-gcm, password: 4df3DRWVEefugStR}
   - {name: 119.147.144.250:18834, server: 119.147.144.250, port: 18834, type: ss, cipher: aes-256-gcm, password: daCxNwo600NW}
-  - {name: 🇭🇰 hkt5.gemgems.net:10441, server: hkt5.gemgems.net, port: 10441, type: ss, cipher: aes-256-gcm, password: Wk7vL9e3jN8C}
-  - {name: 🇭🇰 hkt2.gemgems.net:18513, server: hkt2.gemgems.net, port: 18513, type: ss, cipher: aes-256-gcm, password: ipZAmyss2mPB}
-  - {name: 🇭🇰 hkt3.gemgems.net:9300, server: hkt3.gemgems.net, port: 9300, type: ss, cipher: aes-256-gcm, password: 3wf6HllIYs0d}
-  - {name: 🇭🇰 hkt4.gemgems.net:9123, server: hkt4.gemgems.net, port: 9123, type: ss, cipher: aes-256-gcm, password: ei0UmSE2sO76}
-  - {name: 🇭🇰 hkt1.gemgems.net:15202, server: hkt1.gemgems.net, port: 15202, type: ss, cipher: aes-256-gcm, password: h5B3sCrTFjD9}
-  - {name: sssn.coalcloud.xyz:14829, server: sssn.coalcloud.xyz, port: 14829, type: ss, cipher: aes-256-gcm, password: TY1ehyLGFZZh}
-  - {name: sssn.coalcloud.xyz:17194, server: sssn.coalcloud.xyz, port: 17194, type: ss, cipher: aes-256-gcm, password: Gt29TROd1mpX}
-  - {name: 54.180.157.157:14829, server: 54.180.157.157, port: 14829, type: ss, cipher: aes-256-gcm, password: TY1ehyLGFZZh}
-  - {name: 3.36.130.5:17194, server: 3.36.130.5, port: 17194, type: ss, cipher: aes-256-gcm, password: Gt29TROd1mpX}
-  - {name: 34.245.167.150:10420, server: 34.245.167.150, port: 10420, type: ss, cipher: aes-256-gcm, password: mIuwRA7fP2aD}
-  - {name: 45.77.138.46:11483, server: 45.77.138.46, port: 11483, type: ss, cipher: aes-256-gcm, password: O3E6n4PlDwBQ}
-  - {name: 151.236.216.123:9230, server: 151.236.216.123, port: 9230, type: ss, cipher: aes-256-gcm, password: VpiKrJlrpICs}
-  - {name: 213.168.249.125:17316, server: 213.168.249.125, port: 17316, type: ss, cipher: aes-256-gcm, password: MmIBMxpKGx4f}
-  - {name: 50.116.58.237:17517, server: 50.116.58.237, port: 17517, type: ss, cipher: aes-256-gcm, password: 3DW4x1TW2T3g}
-  - {name: 45.33.90.69:16312, server: 45.33.90.69, port: 16312, type: ss, cipher: aes-256-gcm, password: zLpaOyU69D30}
-  - {name: sssn.coalcloud.xyz:9307, server: sssn.coalcloud.xyz, port: 9307, type: ss, cipher: aes-256-gcm, password: FiobCeZoNfz1}
-  - {name: sssn.coalcloud.xyz:14482, server: sssn.coalcloud.xyz, port: 14482, type: ss, cipher: aes-256-gcm, password: b738FrNLXhB0}
-  - {name: sssn.coalcloud.xyz:11852, server: sssn.coalcloud.xyz, port: 11852, type: ss, cipher: aes-256-gcm, password: UavwwFOjfQvL}
-  - {name: c32s1.jamjams.net:63866, server: c32s1.jamjams.net, port: 63866, type: ss, cipher: aes-256-gcm, password: uC6k6fSJQS}
-  - {name: c32s2.jamjams.net:63866, server: c32s2.jamjams.net, port: 63866, type: ss, cipher: aes-256-gcm, password: uC6k6fSJQS}
-  - {name: c1s1.jamjams.net:30181, server: c1s1.jamjams.net, port: 30181, type: ss, cipher: aes-256-gcm, password: Zh2NBJm5hW}
-  - {name: c1s2.jamjams.net:30181, server: c1s2.jamjams.net, port: 30181, type: ss, cipher: aes-256-gcm, password: Zh2NBJm5hW}
-  - {name: 173.255.209.163:9307, server: 173.255.209.163, port: 9307, type: ss, cipher: aes-256-gcm, password: FiobCeZoNfz1}
-  - {name: 23.239.2.128:14482, server: 23.239.2.128, port: 14482, type: ss, cipher: aes-256-gcm, password: b738FrNLXhB0}
-  - {name: 45.56.95.66:11852, server: 45.56.95.66, port: 11852, type: ss, cipher: aes-256-gcm, password: UavwwFOjfQvL}
-  - {name: 172.105.163.191:10915, server: 172.105.163.191, port: 10915, type: ss, cipher: aes-256-gcm, password: EvdHOfGg1hW5}
-  - {name: 172.105.173.120:13917, server: 172.105.173.120, port: 13917, type: ss, cipher: aes-256-gcm, password: OBAiP6TFDVZ5}
-  - {name: 15.236.41.90:15343, server: 15.236.41.90, port: 15343, type: ss, cipher: aes-256-gcm, password: lj7TNOmzzLlc}
-  - {name: 15.237.50.254:19756, server: 15.237.50.254, port: 19756, type: ss, cipher: aes-256-gcm, password: 8gr8UFz29xkv}
-  - {name: bgp3.gemgems.net:11462, server: bgp3.gemgems.net, port: 11462, type: ss, cipher: aes-256-gcm, password: kBX9w3NH39So}
-  - {name: bgp3.gemgems.net:9657, server: bgp3.gemgems.net, port: 9657, type: ss, cipher: aes-256-gcm, password: 4StvDXMGOxmi}
-  - {name: bgp3.gemgems.net:11286, server: bgp3.gemgems.net, port: 11286, type: ss, cipher: aes-256-gcm, password: aonz4mHWhmet}
-  - {name: bgp3.gemgems.net:14301, server: bgp3.gemgems.net, port: 14301, type: ss, cipher: aes-256-gcm, password: WWtYTj7GzW9c}
-  - {name: 42.157.160.123:15709, server: 42.157.160.123, port: 15709, type: ss, cipher: aes-256-gcm, password: cdYokmRjyEb1}
-  - {name: 185.160.25.69:11462, server: 185.160.25.69, port: 11462, type: ss, cipher: aes-256-gcm, password: kBX9w3NH39So}
-  - {name: 45.93.217.185:9657, server: 45.93.217.185, port: 9657, type: ss, cipher: aes-256-gcm, password: 4StvDXMGOxmi}
-  - {name: 185.172.114.77:11286, server: 185.172.114.77, port: 11286, type: ss, cipher: aes-256-gcm, password: aonz4mHWhmet}
-  - {name: 185.160.24.199:14301, server: 185.160.24.199, port: 14301, type: ss, cipher: aes-256-gcm, password: WWtYTj7GzW9c}
-  - {name: bgp4.gemgems.net:13252, server: bgp4.gemgems.net, port: 13252, type: ss, cipher: aes-256-gcm, password: cPQHo2tyFK29}
-  - {name: bgp4.gemgems.net:14041, server: bgp4.gemgems.net, port: 14041, type: ss, cipher: aes-256-gcm, password: 1kmD44i6Vq3r}
-  - {name: bgp4.gemgems.net:10289, server: bgp4.gemgems.net, port: 10289, type: ss, cipher: aes-256-gcm, password: plAC8oF2SpMh}
-  - {name: bgp4.gemgems.net:15833, server: bgp4.gemgems.net, port: 15833, type: ss, cipher: aes-256-gcm, password: eGpIWDdcCemZ}
-  - {name: 3.1.49.29:13252, server: 3.1.49.29, port: 13252, type: ss, cipher: aes-256-gcm, password: cPQHo2tyFK29}
-  - {name: 18.139.225.119:14041, server: 18.139.225.119, port: 14041, type: ss, cipher: aes-256-gcm, password: 1kmD44i6Vq3r}
-  - {name: 18.136.195.240:10289, server: 18.136.195.240, port: 10289, type: ss, cipher: aes-256-gcm, password: plAC8oF2SpMh}
-  - {name: 54.169.194.2:15833, server: 54.169.194.2, port: 15833, type: ss, cipher: aes-256-gcm, password: eGpIWDdcCemZ}
-  - {name: sssn.coalcloud.xyz:13813, server: sssn.coalcloud.xyz, port: 13813, type: ss, cipher: aes-256-gcm, password: kvwbEc4zC1KC}
-  - {name: sssn.coalcloud.xyz:17388, server: sssn.coalcloud.xyz, port: 17388, type: ss, cipher: aes-256-gcm, password: TLF7ViETYR8C}
-  - {name: 172.104.248.164:13813, server: 172.104.248.164, port: 13813, type: ss, cipher: aes-256-gcm, password: kvwbEc4zC1KC}
-  - {name: 172.105.244.18:17388, server: 172.105.244.18, port: 17388, type: ss, cipher: aes-256-gcm, password: TLF7ViETYR8C}
-  - {name: 141.98.118.174:12730, server: 141.98.118.174, port: 12730, type: ss, cipher: aes-256-gcm, password: LppJrnZyfXuS}
-  - {name: sssn.coalcloud.xyz:18477, server: sssn.coalcloud.xyz, port: 18477, type: ss, cipher: aes-256-gcm, password: oS7ztgjRuQO1}
-  - {name: sssn.coalcloud.xyz:12431, server: sssn.coalcloud.xyz, port: 12431, type: ss, cipher: aes-256-gcm, password: RIjuZSqiiXP4}
-  - {name: sssn.coalcloud.xyz:10760, server: sssn.coalcloud.xyz, port: 10760, type: ss, cipher: aes-256-gcm, password: kmaWmvE8fWdP}
-  - {name: 🇨🇳 hinet1.gemgems.net:18477, server: hinet1.gemgems.net, port: 18477, type: ss, cipher: aes-256-gcm, password: oS7ztgjRuQO1}
-  - {name: 🇨🇳 hinet2.gemgems.net:12431, server: hinet2.gemgems.net, port: 12431, type: ss, cipher: aes-256-gcm, password: RIjuZSqiiXP4}
-  - {name: 🇨🇳 hinet3.gemgems.net:10760, server: hinet3.gemgems.net, port: 10760, type: ss, cipher: aes-256-gcm, password: kmaWmvE8fWdP}
-  - {name: 172.105.41.96:16576, server: 172.105.41.96, port: 16576, type: ss, cipher: aes-256-gcm, password: BnPG6YLeMLfc}
-  - {name: 172.105.101.62:12329, server: 172.105.101.62, port: 12329, type: ss, cipher: aes-256-gcm, password: IP70X2y7iu9R}
-  - {name: 172.105.99.241:9671, server: 172.105.99.241, port: 9671, type: ss, cipher: aes-256-gcm, password: pxKTR97EQKSW}
-  - {name: 45.129.3.91:12028, server: 45.129.3.91, port: 12028, type: ss, cipher: aes-256-gcm, password: 8FXQ8YavBIcb}
-  - {name: 5.188.3.95:13247, server: 5.188.3.95, port: 13247, type: ss, cipher: aes-256-gcm, password: I5YtUo2riBjx}
-  - {name: 47.119.139.234:18905, server: 47.119.139.234, port: 18905, type: ss, cipher: aes-256-gcm, password: ELi7n8SRrMLz}
-  - {name: 139.196.54.232:9938, server: 139.196.54.232, port: 9938, type: ss, cipher: aes-256-gcm, password: PJ7zrrPiDWo0}
-  - {name: 101.132.120.15:15334, server: 101.132.120.15, port: 15334, type: ss, cipher: aes-256-gcm, password: BnIsxj0oTfu7}
+  - {name: 138.19.202.6:443, server: 138.19.202.6, port: 443, type: ss, cipher: aes-256-gcm, password: NQ2H6EvQT7rIoqVl}
+  - {name: 161.81.37.17:443, server: 161.81.37.17, port: 443, type: ss, cipher: aes-256-gcm, password: aJQiv8hsiYV3NzmS}
+  - {name: 203.218.253.196:443, server: 203.218.253.196, port: 443, type: ss, cipher: aes-256-gcm, password: B1vXvRHAtGIcPE5l}
+  - {name: 1.65.203.2:443, server: 1.65.203.2, port: 443, type: ss, cipher: aes-256-gcm, password: wv2y9LS8uwVmLmvK}
+  - {name: 203.218.253.16:443, server: 203.218.253.16, port: 443, type: ss, cipher: aes-256-gcm, password: LhaehkQuP5i0z7G6}
+  - {name: 203.218.254.126:443, server: 203.218.254.126, port: 443, type: ss, cipher: aes-256-gcm, password: 4df3DRWVEefugStR}
+  - {name: 13.125.222.130:443, server: 13.125.222.130, port: 443, type: ss, cipher: aes-256-gcm, password: RojnpiNUI7OWwd5l}
+  - {name: 3.35.216.0:443, server: 3.35.216.0, port: 443, type: ss, cipher: aes-256-gcm, password: x9GD4Jh7k9WAmmEu}
+  - {name: 13.125.222.130:443 2, server: 13.125.222.130, port: 443, type: ss, cipher: aes-256-gcm, password: RojnpiNUI7OWwd5l}
+  - {name: 3.35.216.0:443 2, server: 3.35.216.0, port: 443, type: ss, cipher: aes-256-gcm, password: x9GD4Jh7k9WAmmEu}
+  - {name: 54.171.46.129:443, server: 54.171.46.129, port: 443, type: ss, cipher: aes-256-gcm, password: 8nn16KkPNYfXFz0S}
+  - {name: 45.77.138.46:11483, server: 45.77.138.46, port: 11483, type: ss, cipher: aes-256-gcm, password: CuHRRe7qpfe0OTW0}
+  - {name: 151.236.216.123:9230, server: 151.236.216.123, port: 9230, type: ss, cipher: aes-256-gcm, password: prmEiWVS0dzilkL1}
+  - {name: 213.168.249.125:17316, server: 213.168.249.125, port: 17316, type: ss, cipher: aes-256-gcm, password: HeNLiCndlMcqSuH9}
+  - {name: 50.116.58.237:17517, server: 50.116.58.237, port: 17517, type: ss, cipher: aes-256-gcm, password: z4wu6Iw6EvWhZqal}
+  - {name: 45.33.90.69:16312, server: 45.33.90.69, port: 16312, type: ss, cipher: aes-256-gcm, password: tq9Kc4BNVan2rJfv}
+  - {name: bgp3.gemgems.net:9683, server: bgp3.gemgems.net, port: 9683, type: ss, cipher: aes-256-gcm, password: GzIUGpGtuJ2c2kJv}
+  - {name: bgp3.gemgems.net:14202, server: bgp3.gemgems.net, port: 14202, type: ss, cipher: aes-256-gcm, password: mOmMNosql3ZOJX2A}
+  - {name: bgp3.gemgems.net:13086, server: bgp3.gemgems.net, port: 13086, type: ss, cipher: aes-256-gcm, password: 0KKXRBuHDNbHNVEl}
+  - {name: 96.45.177.111:35767, server: 96.45.177.111, port: 35767, type: ss, cipher: aes-256-gcm, password: kATXK8YKFDBsSdpn}
+  - {name: 144.34.175.97:35767, server: 144.34.175.97, port: 35767, type: ss, cipher: aes-256-gcm, password: kATXK8YKFDBsSdpn}
+  - {name: 96.45.176.152:30181, server: 96.45.176.152, port: 30181, type: ss, cipher: aes-256-gcm, password: Zh2NBJm5hW}
+  - {name: 104.225.157.142:30181, server: 104.225.157.142, port: 30181, type: ss, cipher: aes-256-gcm, password: Zh2NBJm5hW}
+  - {name: 91.220.203.146:443, server: 91.220.203.146, port: 443, type: ss, cipher: aes-256-gcm, password: GzIUGpGtuJ2c2kJv}
+  - {name: 45.144.242.135:443, server: 45.144.242.135, port: 443, type: ss, cipher: aes-256-gcm, password: mOmMNosql3ZOJX2A}
+  - {name: 91.220.203.140:443, server: 91.220.203.140, port: 443, type: ss, cipher: aes-256-gcm, password: 0KKXRBuHDNbHNVEl}
+  - {name: 45.32.244.30:443, server: 45.32.244.30, port: 443, type: ss, cipher: aes-256-gcm, password: xOiVgiHIqbR9xajc}
+  - {name: 207.148.86.249:443, server: 207.148.86.249, port: 443, type: ss, cipher: aes-256-gcm, password: xsCAdokAYVJLfTRb}
+  - {name: 15.237.119.78:443, server: 15.237.119.78, port: 443, type: ss, cipher: aes-256-gcm, password: N2Z2zumBYp3eEGOu}
+  - {name: 13.36.237.42:443, server: 13.36.237.42, port: 443, type: ss, cipher: aes-256-gcm, password: GcyL6Q5iqGkWBL8o}
+  - {name: bgp3.gemgems.net:13353, server: bgp3.gemgems.net, port: 13353, type: ss, cipher: aes-256-gcm, password: b6nAWUk8cmqRRjxs}
+  - {name: bgp3.gemgems.net:12583, server: bgp3.gemgems.net, port: 12583, type: ss, cipher: aes-256-gcm, password: UFpnTIxVwiHvIjE8}
+  - {name: bgp3.gemgems.net:12246, server: bgp3.gemgems.net, port: 12246, type: ss, cipher: aes-256-gcm, password: 4zoU9iC3Q6LrHezl}
+  - {name: bgp3.gemgems.net:11382, server: bgp3.gemgems.net, port: 11382, type: ss, cipher: aes-256-gcm, password: O8qEbaF4Tv5YJjBD}
+  - {name: 42.157.160.123:15709, server: 42.157.160.123, port: 15709, type: ss, cipher: aes-256-gcm, password: 7piTA7GieX3geSZz}
+  - {name: 89.31.125.212:443, server: 89.31.125.212, port: 443, type: ss, cipher: aes-256-gcm, password: b6nAWUk8cmqRRjxs}
+  - {name: 185.160.24.225:443, server: 185.160.24.225, port: 443, type: ss, cipher: aes-256-gcm, password: UFpnTIxVwiHvIjE8}
+  - {name: 185.160.24.109:443, server: 185.160.24.109, port: 443, type: ss, cipher: aes-256-gcm, password: 4zoU9iC3Q6LrHezl}
+  - {name: 185.160.24.111:443, server: 185.160.24.111, port: 443, type: ss, cipher: aes-256-gcm, password: O8qEbaF4Tv5YJjBD}
+  - {name: 217.197.160.187:443, server: 217.197.160.187, port: 443, type: ss, cipher: aes-256-gcm, password: 3vNcHlGMEwkMFVmk}
+  - {name: 217.197.160.233:443, server: 217.197.160.233, port: 443, type: ss, cipher: aes-256-gcm, password: o3Wux3mzAdV5ud33}
+  - {name: 81.90.189.100:443, server: 81.90.189.100, port: 443, type: ss, cipher: aes-256-gcm, password: Jt7aaWunmKmasCv0}
+  - {name: 217.197.160.187:443 2, server: 217.197.160.187, port: 443, type: ss, cipher: aes-256-gcm, password: 3vNcHlGMEwkMFVmk}
+  - {name: 217.197.160.233:443 2, server: 217.197.160.233, port: 443, type: ss, cipher: aes-256-gcm, password: o3Wux3mzAdV5ud33}
+  - {name: 81.90.189.100:443 2, server: 81.90.189.100, port: 443, type: ss, cipher: aes-256-gcm, password: Jt7aaWunmKmasCv0}
+  - {name: 139.177.183.110:443, server: 139.177.183.110, port: 443, type: ss, cipher: aes-256-gcm, password: 18akcGJK9lcEjhqr}
+  - {name: 139.177.180.192:443, server: 139.177.180.192, port: 443, type: ss, cipher: aes-256-gcm, password: tENss836LLCWkcs6}
+  - {name: 139.177.183.110:443 2, server: 139.177.183.110, port: 443, type: ss, cipher: aes-256-gcm, password: 18akcGJK9lcEjhqr}
+  - {name: 139.177.180.192:443 2, server: 139.177.180.192, port: 443, type: ss, cipher: aes-256-gcm, password: tENss836LLCWkcs6}
+  - {name: 141.98.118.174:12730, server: 141.98.118.174, port: 12730, type: ss, cipher: aes-256-gcm, password: x1OX2bRTPAoeYXZn}
+  - {name: bgp3.gemgems.net:10329, server: bgp3.gemgems.net, port: 10329, type: ss, cipher: aes-256-gcm, password: Bf775DrodY9LwwEk}
+  - {name: bgp3.gemgems.net:14482, server: bgp3.gemgems.net, port: 14482, type: ss, cipher: aes-256-gcm, password: BoqL2LF4awwqpCsA}
+  - {name: bgp3.gemgems.net:13857, server: bgp3.gemgems.net, port: 13857, type: ss, cipher: aes-256-gcm, password: JdAP1T909nmMAe5w}
+  - {name: 114.42.208.157:443, server: 114.42.208.157, port: 443, type: ss, cipher: aes-256-gcm, password: Bf775DrodY9LwwEk}
+  - {name: 61.224.5.240:443, server: 61.224.5.240, port: 443, type: ss, cipher: aes-256-gcm, password: BoqL2LF4awwqpCsA}
+  - {name: 114.42.197.167:443, server: 114.42.197.167, port: 443, type: ss, cipher: aes-256-gcm, password: JdAP1T909nmMAe5w}
+  - {name: 172.105.41.96:16576, server: 172.105.41.96, port: 16576, type: ss, cipher: aes-256-gcm, password: 90Np8h8xmN29KlLX}
+  - {name: 172.105.101.62:12329, server: 172.105.101.62, port: 12329, type: ss, cipher: aes-256-gcm, password: EJ1q8UbwGfCYPZzM}
+  - {name: 172.105.99.241:9671, server: 172.105.99.241, port: 9671, type: ss, cipher: aes-256-gcm, password: rVtt9X3aS2zUCe9F}
+  - {name: 45.136.245.141:443, server: 45.136.245.141, port: 443, type: ss, cipher: aes-256-gcm, password: qc7A5FXDlKRoaCO2}
+  - {name: 92.38.189.185:443, server: 92.38.189.185, port: 443, type: ss, cipher: aes-256-gcm, password: ifzNCsvIXbJD5PbA}
+  - {name: 47.119.139.234:18905, server: 47.119.139.234, port: 18905, type: ss, cipher: aes-256-gcm, password: TSCZafCAf1Z53LH5}
+  - {name: 139.196.54.232:9938, server: 139.196.54.232, port: 9938, type: ss, cipher: aes-256-gcm, password: gXpd6OdY3IJsJaOh}
+  - {name: 101.132.120.15:15334, server: 101.132.120.15, port: 15334, type: ss, cipher: aes-256-gcm, password: SHqmLIwKYBDzrVaz}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -89,79 +84,74 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - bgp1.gemgems.net:10441
-      - bgp1.gemgems.net:18513
-      - bgp1.gemgems.net:9300
-      - bgp1.gemgems.net:9123
-      - bgp1.gemgems.net:15202
-      - bgp4.gemgems.net:10441
-      - bgp4.gemgems.net:18513
-      - bgp4.gemgems.net:9300
-      - bgp4.gemgems.net:9123
-      - bgp4.gemgems.net:15202
+      - bgp1.gemgems.net:13925
+      - bgp1.gemgems.net:15388
+      - bgp1.gemgems.net:14616
+      - bgp1.gemgems.net:9921
+      - bgp1.gemgems.net:12947
+      - bgp1.gemgems.net:17680
       - 119.147.144.250:18834
-      - 🇭🇰 hkt5.gemgems.net:10441
-      - 🇭🇰 hkt2.gemgems.net:18513
-      - 🇭🇰 hkt3.gemgems.net:9300
-      - 🇭🇰 hkt4.gemgems.net:9123
-      - 🇭🇰 hkt1.gemgems.net:15202
-      - sssn.coalcloud.xyz:14829
-      - sssn.coalcloud.xyz:17194
-      - 54.180.157.157:14829
-      - 3.36.130.5:17194
-      - 34.245.167.150:10420
+      - 138.19.202.6:443
+      - 161.81.37.17:443
+      - 203.218.253.196:443
+      - 1.65.203.2:443
+      - 203.218.253.16:443
+      - 203.218.254.126:443
+      - 13.125.222.130:443
+      - 3.35.216.0:443
+      - 13.125.222.130:443 2
+      - 3.35.216.0:443 2
+      - 54.171.46.129:443
       - 45.77.138.46:11483
       - 151.236.216.123:9230
       - 213.168.249.125:17316
       - 50.116.58.237:17517
       - 45.33.90.69:16312
-      - sssn.coalcloud.xyz:9307
-      - sssn.coalcloud.xyz:14482
-      - sssn.coalcloud.xyz:11852
-      - c32s1.jamjams.net:63866
-      - c32s2.jamjams.net:63866
-      - c1s1.jamjams.net:30181
-      - c1s2.jamjams.net:30181
-      - 173.255.209.163:9307
-      - 23.239.2.128:14482
-      - 45.56.95.66:11852
-      - 172.105.163.191:10915
-      - 172.105.173.120:13917
-      - 15.236.41.90:15343
-      - 15.237.50.254:19756
-      - bgp3.gemgems.net:11462
-      - bgp3.gemgems.net:9657
-      - bgp3.gemgems.net:11286
-      - bgp3.gemgems.net:14301
+      - bgp3.gemgems.net:9683
+      - bgp3.gemgems.net:14202
+      - bgp3.gemgems.net:13086
+      - 96.45.177.111:35767
+      - 144.34.175.97:35767
+      - 96.45.176.152:30181
+      - 104.225.157.142:30181
+      - 91.220.203.146:443
+      - 45.144.242.135:443
+      - 91.220.203.140:443
+      - 45.32.244.30:443
+      - 207.148.86.249:443
+      - 15.237.119.78:443
+      - 13.36.237.42:443
+      - bgp3.gemgems.net:13353
+      - bgp3.gemgems.net:12583
+      - bgp3.gemgems.net:12246
+      - bgp3.gemgems.net:11382
       - 42.157.160.123:15709
-      - 185.160.25.69:11462
-      - 45.93.217.185:9657
-      - 185.172.114.77:11286
-      - 185.160.24.199:14301
-      - bgp4.gemgems.net:13252
-      - bgp4.gemgems.net:14041
-      - bgp4.gemgems.net:10289
-      - bgp4.gemgems.net:15833
-      - 3.1.49.29:13252
-      - 18.139.225.119:14041
-      - 18.136.195.240:10289
-      - 54.169.194.2:15833
-      - sssn.coalcloud.xyz:13813
-      - sssn.coalcloud.xyz:17388
-      - 172.104.248.164:13813
-      - 172.105.244.18:17388
+      - 89.31.125.212:443
+      - 185.160.24.225:443
+      - 185.160.24.109:443
+      - 185.160.24.111:443
+      - 217.197.160.187:443
+      - 217.197.160.233:443
+      - 81.90.189.100:443
+      - 217.197.160.187:443 2
+      - 217.197.160.233:443 2
+      - 81.90.189.100:443 2
+      - 139.177.183.110:443
+      - 139.177.180.192:443
+      - 139.177.183.110:443 2
+      - 139.177.180.192:443 2
       - 141.98.118.174:12730
-      - sssn.coalcloud.xyz:18477
-      - sssn.coalcloud.xyz:12431
-      - sssn.coalcloud.xyz:10760
-      - 🇨🇳 hinet1.gemgems.net:18477
-      - 🇨🇳 hinet2.gemgems.net:12431
-      - 🇨🇳 hinet3.gemgems.net:10760
+      - bgp3.gemgems.net:10329
+      - bgp3.gemgems.net:14482
+      - bgp3.gemgems.net:13857
+      - 114.42.208.157:443
+      - 61.224.5.240:443
+      - 114.42.197.167:443
       - 172.105.41.96:16576
       - 172.105.101.62:12329
       - 172.105.99.241:9671
-      - 45.129.3.91:12028
-      - 5.188.3.95:13247
+      - 45.136.245.141:443
+      - 92.38.189.185:443
       - 47.119.139.234:18905
       - 139.196.54.232:9938
       - 101.132.120.15:15334
@@ -171,79 +161,74 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - bgp1.gemgems.net:10441
-      - bgp1.gemgems.net:18513
-      - bgp1.gemgems.net:9300
-      - bgp1.gemgems.net:9123
-      - bgp1.gemgems.net:15202
-      - bgp4.gemgems.net:10441
-      - bgp4.gemgems.net:18513
-      - bgp4.gemgems.net:9300
-      - bgp4.gemgems.net:9123
-      - bgp4.gemgems.net:15202
+      - bgp1.gemgems.net:13925
+      - bgp1.gemgems.net:15388
+      - bgp1.gemgems.net:14616
+      - bgp1.gemgems.net:9921
+      - bgp1.gemgems.net:12947
+      - bgp1.gemgems.net:17680
       - 119.147.144.250:18834
-      - 🇭🇰 hkt5.gemgems.net:10441
-      - 🇭🇰 hkt2.gemgems.net:18513
-      - 🇭🇰 hkt3.gemgems.net:9300
-      - 🇭🇰 hkt4.gemgems.net:9123
-      - 🇭🇰 hkt1.gemgems.net:15202
-      - sssn.coalcloud.xyz:14829
-      - sssn.coalcloud.xyz:17194
-      - 54.180.157.157:14829
-      - 3.36.130.5:17194
-      - 34.245.167.150:10420
+      - 138.19.202.6:443
+      - 161.81.37.17:443
+      - 203.218.253.196:443
+      - 1.65.203.2:443
+      - 203.218.253.16:443
+      - 203.218.254.126:443
+      - 13.125.222.130:443
+      - 3.35.216.0:443
+      - 13.125.222.130:443 2
+      - 3.35.216.0:443 2
+      - 54.171.46.129:443
       - 45.77.138.46:11483
       - 151.236.216.123:9230
       - 213.168.249.125:17316
       - 50.116.58.237:17517
       - 45.33.90.69:16312
-      - sssn.coalcloud.xyz:9307
-      - sssn.coalcloud.xyz:14482
-      - sssn.coalcloud.xyz:11852
-      - c32s1.jamjams.net:63866
-      - c32s2.jamjams.net:63866
-      - c1s1.jamjams.net:30181
-      - c1s2.jamjams.net:30181
-      - 173.255.209.163:9307
-      - 23.239.2.128:14482
-      - 45.56.95.66:11852
-      - 172.105.163.191:10915
-      - 172.105.173.120:13917
-      - 15.236.41.90:15343
-      - 15.237.50.254:19756
-      - bgp3.gemgems.net:11462
-      - bgp3.gemgems.net:9657
-      - bgp3.gemgems.net:11286
-      - bgp3.gemgems.net:14301
+      - bgp3.gemgems.net:9683
+      - bgp3.gemgems.net:14202
+      - bgp3.gemgems.net:13086
+      - 96.45.177.111:35767
+      - 144.34.175.97:35767
+      - 96.45.176.152:30181
+      - 104.225.157.142:30181
+      - 91.220.203.146:443
+      - 45.144.242.135:443
+      - 91.220.203.140:443
+      - 45.32.244.30:443
+      - 207.148.86.249:443
+      - 15.237.119.78:443
+      - 13.36.237.42:443
+      - bgp3.gemgems.net:13353
+      - bgp3.gemgems.net:12583
+      - bgp3.gemgems.net:12246
+      - bgp3.gemgems.net:11382
       - 42.157.160.123:15709
-      - 185.160.25.69:11462
-      - 45.93.217.185:9657
-      - 185.172.114.77:11286
-      - 185.160.24.199:14301
-      - bgp4.gemgems.net:13252
-      - bgp4.gemgems.net:14041
-      - bgp4.gemgems.net:10289
-      - bgp4.gemgems.net:15833
-      - 3.1.49.29:13252
-      - 18.139.225.119:14041
-      - 18.136.195.240:10289
-      - 54.169.194.2:15833
-      - sssn.coalcloud.xyz:13813
-      - sssn.coalcloud.xyz:17388
-      - 172.104.248.164:13813
-      - 172.105.244.18:17388
+      - 89.31.125.212:443
+      - 185.160.24.225:443
+      - 185.160.24.109:443
+      - 185.160.24.111:443
+      - 217.197.160.187:443
+      - 217.197.160.233:443
+      - 81.90.189.100:443
+      - 217.197.160.187:443 2
+      - 217.197.160.233:443 2
+      - 81.90.189.100:443 2
+      - 139.177.183.110:443
+      - 139.177.180.192:443
+      - 139.177.183.110:443 2
+      - 139.177.180.192:443 2
       - 141.98.118.174:12730
-      - sssn.coalcloud.xyz:18477
-      - sssn.coalcloud.xyz:12431
-      - sssn.coalcloud.xyz:10760
-      - 🇨🇳 hinet1.gemgems.net:18477
-      - 🇨🇳 hinet2.gemgems.net:12431
-      - 🇨🇳 hinet3.gemgems.net:10760
+      - bgp3.gemgems.net:10329
+      - bgp3.gemgems.net:14482
+      - bgp3.gemgems.net:13857
+      - 114.42.208.157:443
+      - 61.224.5.240:443
+      - 114.42.197.167:443
       - 172.105.41.96:16576
       - 172.105.101.62:12329
       - 172.105.99.241:9671
-      - 45.129.3.91:12028
-      - 5.188.3.95:13247
+      - 45.136.245.141:443
+      - 92.38.189.185:443
       - 47.119.139.234:18905
       - 139.196.54.232:9938
       - 101.132.120.15:15334
@@ -252,79 +237,74 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - bgp1.gemgems.net:10441
-      - bgp1.gemgems.net:18513
-      - bgp1.gemgems.net:9300
-      - bgp1.gemgems.net:9123
-      - bgp1.gemgems.net:15202
-      - bgp4.gemgems.net:10441
-      - bgp4.gemgems.net:18513
-      - bgp4.gemgems.net:9300
-      - bgp4.gemgems.net:9123
-      - bgp4.gemgems.net:15202
+      - bgp1.gemgems.net:13925
+      - bgp1.gemgems.net:15388
+      - bgp1.gemgems.net:14616
+      - bgp1.gemgems.net:9921
+      - bgp1.gemgems.net:12947
+      - bgp1.gemgems.net:17680
       - 119.147.144.250:18834
-      - 🇭🇰 hkt5.gemgems.net:10441
-      - 🇭🇰 hkt2.gemgems.net:18513
-      - 🇭🇰 hkt3.gemgems.net:9300
-      - 🇭🇰 hkt4.gemgems.net:9123
-      - 🇭🇰 hkt1.gemgems.net:15202
-      - sssn.coalcloud.xyz:14829
-      - sssn.coalcloud.xyz:17194
-      - 54.180.157.157:14829
-      - 3.36.130.5:17194
-      - 34.245.167.150:10420
+      - 138.19.202.6:443
+      - 161.81.37.17:443
+      - 203.218.253.196:443
+      - 1.65.203.2:443
+      - 203.218.253.16:443
+      - 203.218.254.126:443
+      - 13.125.222.130:443
+      - 3.35.216.0:443
+      - 13.125.222.130:443 2
+      - 3.35.216.0:443 2
+      - 54.171.46.129:443
       - 45.77.138.46:11483
       - 151.236.216.123:9230
       - 213.168.249.125:17316
       - 50.116.58.237:17517
       - 45.33.90.69:16312
-      - sssn.coalcloud.xyz:9307
-      - sssn.coalcloud.xyz:14482
-      - sssn.coalcloud.xyz:11852
-      - c32s1.jamjams.net:63866
-      - c32s2.jamjams.net:63866
-      - c1s1.jamjams.net:30181
-      - c1s2.jamjams.net:30181
-      - 173.255.209.163:9307
-      - 23.239.2.128:14482
-      - 45.56.95.66:11852
-      - 172.105.163.191:10915
-      - 172.105.173.120:13917
-      - 15.236.41.90:15343
-      - 15.237.50.254:19756
-      - bgp3.gemgems.net:11462
-      - bgp3.gemgems.net:9657
-      - bgp3.gemgems.net:11286
-      - bgp3.gemgems.net:14301
+      - bgp3.gemgems.net:9683
+      - bgp3.gemgems.net:14202
+      - bgp3.gemgems.net:13086
+      - 96.45.177.111:35767
+      - 144.34.175.97:35767
+      - 96.45.176.152:30181
+      - 104.225.157.142:30181
+      - 91.220.203.146:443
+      - 45.144.242.135:443
+      - 91.220.203.140:443
+      - 45.32.244.30:443
+      - 207.148.86.249:443
+      - 15.237.119.78:443
+      - 13.36.237.42:443
+      - bgp3.gemgems.net:13353
+      - bgp3.gemgems.net:12583
+      - bgp3.gemgems.net:12246
+      - bgp3.gemgems.net:11382
       - 42.157.160.123:15709
-      - 185.160.25.69:11462
-      - 45.93.217.185:9657
-      - 185.172.114.77:11286
-      - 185.160.24.199:14301
-      - bgp4.gemgems.net:13252
-      - bgp4.gemgems.net:14041
-      - bgp4.gemgems.net:10289
-      - bgp4.gemgems.net:15833
-      - 3.1.49.29:13252
-      - 18.139.225.119:14041
-      - 18.136.195.240:10289
-      - 54.169.194.2:15833
-      - sssn.coalcloud.xyz:13813
-      - sssn.coalcloud.xyz:17388
-      - 172.104.248.164:13813
-      - 172.105.244.18:17388
+      - 89.31.125.212:443
+      - 185.160.24.225:443
+      - 185.160.24.109:443
+      - 185.160.24.111:443
+      - 217.197.160.187:443
+      - 217.197.160.233:443
+      - 81.90.189.100:443
+      - 217.197.160.187:443 2
+      - 217.197.160.233:443 2
+      - 81.90.189.100:443 2
+      - 139.177.183.110:443
+      - 139.177.180.192:443
+      - 139.177.183.110:443 2
+      - 139.177.180.192:443 2
       - 141.98.118.174:12730
-      - sssn.coalcloud.xyz:18477
-      - sssn.coalcloud.xyz:12431
-      - sssn.coalcloud.xyz:10760
-      - 🇨🇳 hinet1.gemgems.net:18477
-      - 🇨🇳 hinet2.gemgems.net:12431
-      - 🇨🇳 hinet3.gemgems.net:10760
+      - bgp3.gemgems.net:10329
+      - bgp3.gemgems.net:14482
+      - bgp3.gemgems.net:13857
+      - 114.42.208.157:443
+      - 61.224.5.240:443
+      - 114.42.197.167:443
       - 172.105.41.96:16576
       - 172.105.101.62:12329
       - 172.105.99.241:9671
-      - 45.129.3.91:12028
-      - 5.188.3.95:13247
+      - 45.136.245.141:443
+      - 92.38.189.185:443
       - 47.119.139.234:18905
       - 139.196.54.232:9938
       - 101.132.120.15:15334
@@ -333,79 +313,74 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - bgp1.gemgems.net:10441
-      - bgp1.gemgems.net:18513
-      - bgp1.gemgems.net:9300
-      - bgp1.gemgems.net:9123
-      - bgp1.gemgems.net:15202
-      - bgp4.gemgems.net:10441
-      - bgp4.gemgems.net:18513
-      - bgp4.gemgems.net:9300
-      - bgp4.gemgems.net:9123
-      - bgp4.gemgems.net:15202
+      - bgp1.gemgems.net:13925
+      - bgp1.gemgems.net:15388
+      - bgp1.gemgems.net:14616
+      - bgp1.gemgems.net:9921
+      - bgp1.gemgems.net:12947
+      - bgp1.gemgems.net:17680
       - 119.147.144.250:18834
-      - 🇭🇰 hkt5.gemgems.net:10441
-      - 🇭🇰 hkt2.gemgems.net:18513
-      - 🇭🇰 hkt3.gemgems.net:9300
-      - 🇭🇰 hkt4.gemgems.net:9123
-      - 🇭🇰 hkt1.gemgems.net:15202
-      - sssn.coalcloud.xyz:14829
-      - sssn.coalcloud.xyz:17194
-      - 54.180.157.157:14829
-      - 3.36.130.5:17194
-      - 34.245.167.150:10420
+      - 138.19.202.6:443
+      - 161.81.37.17:443
+      - 203.218.253.196:443
+      - 1.65.203.2:443
+      - 203.218.253.16:443
+      - 203.218.254.126:443
+      - 13.125.222.130:443
+      - 3.35.216.0:443
+      - 13.125.222.130:443 2
+      - 3.35.216.0:443 2
+      - 54.171.46.129:443
       - 45.77.138.46:11483
       - 151.236.216.123:9230
       - 213.168.249.125:17316
       - 50.116.58.237:17517
       - 45.33.90.69:16312
-      - sssn.coalcloud.xyz:9307
-      - sssn.coalcloud.xyz:14482
-      - sssn.coalcloud.xyz:11852
-      - c32s1.jamjams.net:63866
-      - c32s2.jamjams.net:63866
-      - c1s1.jamjams.net:30181
-      - c1s2.jamjams.net:30181
-      - 173.255.209.163:9307
-      - 23.239.2.128:14482
-      - 45.56.95.66:11852
-      - 172.105.163.191:10915
-      - 172.105.173.120:13917
-      - 15.236.41.90:15343
-      - 15.237.50.254:19756
-      - bgp3.gemgems.net:11462
-      - bgp3.gemgems.net:9657
-      - bgp3.gemgems.net:11286
-      - bgp3.gemgems.net:14301
+      - bgp3.gemgems.net:9683
+      - bgp3.gemgems.net:14202
+      - bgp3.gemgems.net:13086
+      - 96.45.177.111:35767
+      - 144.34.175.97:35767
+      - 96.45.176.152:30181
+      - 104.225.157.142:30181
+      - 91.220.203.146:443
+      - 45.144.242.135:443
+      - 91.220.203.140:443
+      - 45.32.244.30:443
+      - 207.148.86.249:443
+      - 15.237.119.78:443
+      - 13.36.237.42:443
+      - bgp3.gemgems.net:13353
+      - bgp3.gemgems.net:12583
+      - bgp3.gemgems.net:12246
+      - bgp3.gemgems.net:11382
       - 42.157.160.123:15709
-      - 185.160.25.69:11462
-      - 45.93.217.185:9657
-      - 185.172.114.77:11286
-      - 185.160.24.199:14301
-      - bgp4.gemgems.net:13252
-      - bgp4.gemgems.net:14041
-      - bgp4.gemgems.net:10289
-      - bgp4.gemgems.net:15833
-      - 3.1.49.29:13252
-      - 18.139.225.119:14041
-      - 18.136.195.240:10289
-      - 54.169.194.2:15833
-      - sssn.coalcloud.xyz:13813
-      - sssn.coalcloud.xyz:17388
-      - 172.104.248.164:13813
-      - 172.105.244.18:17388
+      - 89.31.125.212:443
+      - 185.160.24.225:443
+      - 185.160.24.109:443
+      - 185.160.24.111:443
+      - 217.197.160.187:443
+      - 217.197.160.233:443
+      - 81.90.189.100:443
+      - 217.197.160.187:443 2
+      - 217.197.160.233:443 2
+      - 81.90.189.100:443 2
+      - 139.177.183.110:443
+      - 139.177.180.192:443
+      - 139.177.183.110:443 2
+      - 139.177.180.192:443 2
       - 141.98.118.174:12730
-      - sssn.coalcloud.xyz:18477
-      - sssn.coalcloud.xyz:12431
-      - sssn.coalcloud.xyz:10760
-      - 🇨🇳 hinet1.gemgems.net:18477
-      - 🇨🇳 hinet2.gemgems.net:12431
-      - 🇨🇳 hinet3.gemgems.net:10760
+      - bgp3.gemgems.net:10329
+      - bgp3.gemgems.net:14482
+      - bgp3.gemgems.net:13857
+      - 114.42.208.157:443
+      - 61.224.5.240:443
+      - 114.42.197.167:443
       - 172.105.41.96:16576
       - 172.105.101.62:12329
       - 172.105.99.241:9671
-      - 45.129.3.91:12028
-      - 5.188.3.95:13247
+      - 45.136.245.141:443
+      - 92.38.189.185:443
       - 47.119.139.234:18905
       - 139.196.54.232:9938
       - 101.132.120.15:15334
@@ -428,79 +403,74 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - bgp1.gemgems.net:10441
-      - bgp1.gemgems.net:18513
-      - bgp1.gemgems.net:9300
-      - bgp1.gemgems.net:9123
-      - bgp1.gemgems.net:15202
-      - bgp4.gemgems.net:10441
-      - bgp4.gemgems.net:18513
-      - bgp4.gemgems.net:9300
-      - bgp4.gemgems.net:9123
-      - bgp4.gemgems.net:15202
+      - bgp1.gemgems.net:13925
+      - bgp1.gemgems.net:15388
+      - bgp1.gemgems.net:14616
+      - bgp1.gemgems.net:9921
+      - bgp1.gemgems.net:12947
+      - bgp1.gemgems.net:17680
       - 119.147.144.250:18834
-      - 🇭🇰 hkt5.gemgems.net:10441
-      - 🇭🇰 hkt2.gemgems.net:18513
-      - 🇭🇰 hkt3.gemgems.net:9300
-      - 🇭🇰 hkt4.gemgems.net:9123
-      - 🇭🇰 hkt1.gemgems.net:15202
-      - sssn.coalcloud.xyz:14829
-      - sssn.coalcloud.xyz:17194
-      - 54.180.157.157:14829
-      - 3.36.130.5:17194
-      - 34.245.167.150:10420
+      - 138.19.202.6:443
+      - 161.81.37.17:443
+      - 203.218.253.196:443
+      - 1.65.203.2:443
+      - 203.218.253.16:443
+      - 203.218.254.126:443
+      - 13.125.222.130:443
+      - 3.35.216.0:443
+      - 13.125.222.130:443 2
+      - 3.35.216.0:443 2
+      - 54.171.46.129:443
       - 45.77.138.46:11483
       - 151.236.216.123:9230
       - 213.168.249.125:17316
       - 50.116.58.237:17517
       - 45.33.90.69:16312
-      - sssn.coalcloud.xyz:9307
-      - sssn.coalcloud.xyz:14482
-      - sssn.coalcloud.xyz:11852
-      - c32s1.jamjams.net:63866
-      - c32s2.jamjams.net:63866
-      - c1s1.jamjams.net:30181
-      - c1s2.jamjams.net:30181
-      - 173.255.209.163:9307
-      - 23.239.2.128:14482
-      - 45.56.95.66:11852
-      - 172.105.163.191:10915
-      - 172.105.173.120:13917
-      - 15.236.41.90:15343
-      - 15.237.50.254:19756
-      - bgp3.gemgems.net:11462
-      - bgp3.gemgems.net:9657
-      - bgp3.gemgems.net:11286
-      - bgp3.gemgems.net:14301
+      - bgp3.gemgems.net:9683
+      - bgp3.gemgems.net:14202
+      - bgp3.gemgems.net:13086
+      - 96.45.177.111:35767
+      - 144.34.175.97:35767
+      - 96.45.176.152:30181
+      - 104.225.157.142:30181
+      - 91.220.203.146:443
+      - 45.144.242.135:443
+      - 91.220.203.140:443
+      - 45.32.244.30:443
+      - 207.148.86.249:443
+      - 15.237.119.78:443
+      - 13.36.237.42:443
+      - bgp3.gemgems.net:13353
+      - bgp3.gemgems.net:12583
+      - bgp3.gemgems.net:12246
+      - bgp3.gemgems.net:11382
       - 42.157.160.123:15709
-      - 185.160.25.69:11462
-      - 45.93.217.185:9657
-      - 185.172.114.77:11286
-      - 185.160.24.199:14301
-      - bgp4.gemgems.net:13252
-      - bgp4.gemgems.net:14041
-      - bgp4.gemgems.net:10289
-      - bgp4.gemgems.net:15833
-      - 3.1.49.29:13252
-      - 18.139.225.119:14041
-      - 18.136.195.240:10289
-      - 54.169.194.2:15833
-      - sssn.coalcloud.xyz:13813
-      - sssn.coalcloud.xyz:17388
-      - 172.104.248.164:13813
-      - 172.105.244.18:17388
+      - 89.31.125.212:443
+      - 185.160.24.225:443
+      - 185.160.24.109:443
+      - 185.160.24.111:443
+      - 217.197.160.187:443
+      - 217.197.160.233:443
+      - 81.90.189.100:443
+      - 217.197.160.187:443 2
+      - 217.197.160.233:443 2
+      - 81.90.189.100:443 2
+      - 139.177.183.110:443
+      - 139.177.180.192:443
+      - 139.177.183.110:443 2
+      - 139.177.180.192:443 2
       - 141.98.118.174:12730
-      - sssn.coalcloud.xyz:18477
-      - sssn.coalcloud.xyz:12431
-      - sssn.coalcloud.xyz:10760
-      - 🇨🇳 hinet1.gemgems.net:18477
-      - 🇨🇳 hinet2.gemgems.net:12431
-      - 🇨🇳 hinet3.gemgems.net:10760
+      - bgp3.gemgems.net:10329
+      - bgp3.gemgems.net:14482
+      - bgp3.gemgems.net:13857
+      - 114.42.208.157:443
+      - 61.224.5.240:443
+      - 114.42.197.167:443
       - 172.105.41.96:16576
       - 172.105.101.62:12329
       - 172.105.99.241:9671
-      - 45.129.3.91:12028
-      - 5.188.3.95:13247
+      - 45.136.245.141:443
+      - 92.38.189.185:443
       - 47.119.139.234:18905
       - 139.196.54.232:9938
       - 101.132.120.15:15334
@@ -569,7 +539,6 @@ rules:
  - DOMAIN-KEYWORD,pingfore,🛑 全球拦截
  - DOMAIN-KEYWORD,socdm,🛑 全球拦截
  - DOMAIN-KEYWORD,supersonicads,🛑 全球拦截
- - DOMAIN-KEYWORD,tracking,🛑 全球拦截
  - DOMAIN-KEYWORD,usage,🛑 全球拦截
  - DOMAIN-KEYWORD,wlmonitor,🛑 全球拦截
  - DOMAIN-KEYWORD,zjtoolbar,🛑 全球拦截
@@ -2717,8 +2686,6 @@ rules:
  - DOMAIN-SUFFIX,discord.media,🚀 节点选择
  - DOMAIN-SUFFIX,discordapp.com,🚀 节点选择
  - DOMAIN-SUFFIX,discordapp.net,🚀 节点选择
- - DOMAIN-SUFFIX,dubox.com,🚀 节点选择
- - DOMAIN-SUFFIX,duboxcdn.com,🚀 节点选择
  - DOMAIN-SUFFIX,facebook.com,🚀 节点选择
  - DOMAIN-SUFFIX,fb.com,🚀 节点选择
  - DOMAIN-SUFFIX,fb.me,🚀 节点选择
@@ -2880,6 +2847,8 @@ rules:
  - IP-CIDR6,2001:67c:4e8::/48,🚀 节点选择,no-resolve
  - IP-CIDR6,2001:b28:f23d::/48,🚀 节点选择,no-resolve
  - IP-CIDR6,2001:b28:f23f::/48,🚀 节点选择,no-resolve
+ - DOMAIN-SUFFIX,terabox.com,🚀 节点选择
+ - DOMAIN-SUFFIX,teraboxcdn.com,🚀 节点选择
  - IP-CIDR,18.194.0.0/15,🚀 节点选择,no-resolve
  - IP-CIDR,34.224.0.0/12,🚀 节点选择,no-resolve
  - IP-CIDR,54.242.0.0/15,🚀 节点选择,no-resolve
@@ -3005,13 +2974,19 @@ rules:
  - DOMAIN-SUFFIX,acg.tv,🎯 全球直连
  - DOMAIN-SUFFIX,acgvideo.com,🎯 全球直连
  - DOMAIN-SUFFIX,b23.tv,🎯 全球直连
+ - DOMAIN-SUFFIX,bigfun.cn,🎯 全球直连
+ - DOMAIN-SUFFIX,bigfunapp.cn,🎯 全球直连
  - DOMAIN-SUFFIX,biliapi.com,🎯 全球直连
  - DOMAIN-SUFFIX,biliapi.net,🎯 全球直连
+ - DOMAIN-SUFFIX,bilibili.com,🎯 全球直连
+ - DOMAIN-SUFFIX,bilibili.tv,🎯 全球直连
  - DOMAIN-SUFFIX,biligame.com,🎯 全球直连
  - DOMAIN-SUFFIX,biligame.net,🎯 全球直连
  - DOMAIN-SUFFIX,bilivideo.com,🎯 全球直连
+ - DOMAIN-SUFFIX,bilivideo.cn,🎯 全球直连
  - DOMAIN-SUFFIX,hdslb.com,🎯 全球直连
  - DOMAIN-SUFFIX,im9.com,🎯 全球直连
+ - DOMAIN-SUFFIX,smtcdns.net,🎯 全球直连
  - DOMAIN-SUFFIX,battle.net,🎯 全球直连
  - DOMAIN-SUFFIX,battlenet.com,🎯 全球直连
  - DOMAIN-SUFFIX,blizzard.com,🎯 全球直连
