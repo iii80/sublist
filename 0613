@@ -1,0 +1,5 @@
+proxies:
+
+  - {name: 🇯🇵 t.me/ThorHCC日本V2节点, server: c5s4.jamjams.net, port: 33289, type: vmess, uuid: 32f0326f-322e-442c-8c3f-fae78f68e3bc, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false}
+  - {name: USA 🇺🇸 Denver, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: HRV 🇭🇷 Zagreb, server: 176.222.34.119, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
