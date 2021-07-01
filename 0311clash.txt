@@ -5,21 +5,16 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "🇰🇷 KR, Incheon", server: 18.136.205.146, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇭🇰 HK, Kowloon", server: 13.250.23.29, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇭🇰 HK, Kowloon 2", server: 18.136.205.146, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇯🇵 JP, Tokyo 2", server: 3.36.93.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇺🇲 US, Dallas 2", server: 54.184.41.31, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇺🇲 US, Los Angeles", server: "", port: 0, type: ss, cipher: aes-256-cfb, password: ""}
-  - {name: "🇭🇰 HK, New Territories", server: 18.136.196.32, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇨🇳 TW, Taipei", server: 3.112.203.140, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇺🇲 US, Dallas", server: 107.182.177.136, port: 504, type: ss, cipher: aes-256-cfb, password: bwhskrskr05}
-  - {name: "🇺🇲 US, Houston", server: 34.212.51.68, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇺🇲 US, California", server: 198.181.56.163, port: 555, type: ss, cipher: aes-256-cfb, password: bwhskrskr05}
-  - {name: "🇯🇵 JP, Tokyo", server: 18.136.196.32, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "CA, Vancouver", server: 34.212.14.67, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇯🇵 JP, Osaka", server: 13.250.23.29, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: "🇸🇬 SG, Singapore", server: 18.179.174.200, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: a1.ap.fastqvpn.com:29980, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: a1.ap.fastqvpn.com:29980 2, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: global.ap.fastqvpn.com:29985, server: global.ap.fastqvpn.com, port: 29985, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: global.ap.fastqvpn.com:29983, server: global.ap.fastqvpn.com, port: 29983, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: global.ap.fastqvpn.com:29988, server: global.ap.fastqvpn.com, port: 29988, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: global.ap.fastqvpn.com:29987, server: global.ap.fastqvpn.com, port: 29987, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: global.ap.fastqvpn.com:29985 2, server: global.ap.fastqvpn.com, port: 29985, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: global.ap.fastqvpn.com:29984, server: global.ap.fastqvpn.com, port: 29984, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: global.ap.fastqvpn.com:29982, server: global.ap.fastqvpn.com, port: 29982, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
+  - {name: global.ap.fastqvpn.com:29983 2, server: global.ap.fastqvpn.com, port: 29983, type: http, username: 462976695347970048, password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2, tls: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -28,82 +23,62 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - 🇰🇷 KR, Incheon
-      - 🇭🇰 HK, Kowloon
-      - 🇭🇰 HK, Kowloon 2
-      - 🇯🇵 JP, Tokyo 2
-      - 🇺🇲 US, Dallas 2
-      - 🇺🇲 US, Los Angeles
-      - 🇭🇰 HK, New Territories
-      - 🇨🇳 TW, Taipei
-      - 🇺🇲 US, Dallas
-      - 🇺🇲 US, Houston
-      - 🇺🇲 US, California
-      - 🇯🇵 JP, Tokyo
-      - CA, Vancouver
-      - 🇯🇵 JP, Osaka
-      - 🇸🇬 SG, Singapore
+      - a1.ap.fastqvpn.com:29980
+      - a1.ap.fastqvpn.com:29980 2
+      - global.ap.fastqvpn.com:29985
+      - global.ap.fastqvpn.com:29983
+      - global.ap.fastqvpn.com:29988
+      - global.ap.fastqvpn.com:29987
+      - global.ap.fastqvpn.com:29985 2
+      - global.ap.fastqvpn.com:29984
+      - global.ap.fastqvpn.com:29982
+      - global.ap.fastqvpn.com:29983 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇰🇷 KR, Incheon
-      - 🇭🇰 HK, Kowloon
-      - 🇭🇰 HK, Kowloon 2
-      - 🇯🇵 JP, Tokyo 2
-      - 🇺🇲 US, Dallas 2
-      - 🇺🇲 US, Los Angeles
-      - 🇭🇰 HK, New Territories
-      - 🇨🇳 TW, Taipei
-      - 🇺🇲 US, Dallas
-      - 🇺🇲 US, Houston
-      - 🇺🇲 US, California
-      - 🇯🇵 JP, Tokyo
-      - CA, Vancouver
-      - 🇯🇵 JP, Osaka
-      - 🇸🇬 SG, Singapore
+      - a1.ap.fastqvpn.com:29980
+      - a1.ap.fastqvpn.com:29980 2
+      - global.ap.fastqvpn.com:29985
+      - global.ap.fastqvpn.com:29983
+      - global.ap.fastqvpn.com:29988
+      - global.ap.fastqvpn.com:29987
+      - global.ap.fastqvpn.com:29985 2
+      - global.ap.fastqvpn.com:29984
+      - global.ap.fastqvpn.com:29982
+      - global.ap.fastqvpn.com:29983 2
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 🇰🇷 KR, Incheon
-      - 🇭🇰 HK, Kowloon
-      - 🇭🇰 HK, Kowloon 2
-      - 🇯🇵 JP, Tokyo 2
-      - 🇺🇲 US, Dallas 2
-      - 🇺🇲 US, Los Angeles
-      - 🇭🇰 HK, New Territories
-      - 🇨🇳 TW, Taipei
-      - 🇺🇲 US, Dallas
-      - 🇺🇲 US, Houston
-      - 🇺🇲 US, California
-      - 🇯🇵 JP, Tokyo
-      - CA, Vancouver
-      - 🇯🇵 JP, Osaka
-      - 🇸🇬 SG, Singapore
+      - a1.ap.fastqvpn.com:29980
+      - a1.ap.fastqvpn.com:29980 2
+      - global.ap.fastqvpn.com:29985
+      - global.ap.fastqvpn.com:29983
+      - global.ap.fastqvpn.com:29988
+      - global.ap.fastqvpn.com:29987
+      - global.ap.fastqvpn.com:29985 2
+      - global.ap.fastqvpn.com:29984
+      - global.ap.fastqvpn.com:29982
+      - global.ap.fastqvpn.com:29983 2
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 🇰🇷 KR, Incheon
-      - 🇭🇰 HK, Kowloon
-      - 🇭🇰 HK, Kowloon 2
-      - 🇯🇵 JP, Tokyo 2
-      - 🇺🇲 US, Dallas 2
-      - 🇺🇲 US, Los Angeles
-      - 🇭🇰 HK, New Territories
-      - 🇨🇳 TW, Taipei
-      - 🇺🇲 US, Dallas
-      - 🇺🇲 US, Houston
-      - 🇺🇲 US, California
-      - 🇯🇵 JP, Tokyo
-      - CA, Vancouver
-      - 🇯🇵 JP, Osaka
-      - 🇸🇬 SG, Singapore
+      - a1.ap.fastqvpn.com:29980
+      - a1.ap.fastqvpn.com:29980 2
+      - global.ap.fastqvpn.com:29985
+      - global.ap.fastqvpn.com:29983
+      - global.ap.fastqvpn.com:29988
+      - global.ap.fastqvpn.com:29987
+      - global.ap.fastqvpn.com:29985 2
+      - global.ap.fastqvpn.com:29984
+      - global.ap.fastqvpn.com:29982
+      - global.ap.fastqvpn.com:29983 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -123,21 +98,16 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - 🇰🇷 KR, Incheon
-      - 🇭🇰 HK, Kowloon
-      - 🇭🇰 HK, Kowloon 2
-      - 🇯🇵 JP, Tokyo 2
-      - 🇺🇲 US, Dallas 2
-      - 🇺🇲 US, Los Angeles
-      - 🇭🇰 HK, New Territories
-      - 🇨🇳 TW, Taipei
-      - 🇺🇲 US, Dallas
-      - 🇺🇲 US, Houston
-      - 🇺🇲 US, California
-      - 🇯🇵 JP, Tokyo
-      - CA, Vancouver
-      - 🇯🇵 JP, Osaka
-      - 🇸🇬 SG, Singapore
+      - a1.ap.fastqvpn.com:29980
+      - a1.ap.fastqvpn.com:29980 2
+      - global.ap.fastqvpn.com:29985
+      - global.ap.fastqvpn.com:29983
+      - global.ap.fastqvpn.com:29988
+      - global.ap.fastqvpn.com:29987
+      - global.ap.fastqvpn.com:29985 2
+      - global.ap.fastqvpn.com:29984
+      - global.ap.fastqvpn.com:29982
+      - global.ap.fastqvpn.com:29983 2
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
