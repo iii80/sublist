@@ -10,1360 +10,1360 @@ proxies:
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0香港_2
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0香港_3
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0香港_4
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0香港_5
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0日本_1
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0日本_2
     server: ap1-jp.er3.xyz
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0日本_3
     server: ap1-jp.er3.xyz
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0日本_4
     server: ap1-jp.er3.xyz
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0日本_5
     server: ap1-jp.er3.xyz
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0日本_6
     server: ap1-jp.er3.xyz
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0日本_7
     server: ap1-jp.er3.xyz
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0日本_8
     server: ap1-jp.er3.xyz
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0新加坡_1
     server: ap1-sg.er3.xyz
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0新加坡_2
     server: ap1-sg.er3.xyz
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0新加坡_3
     server: ap1-sg.er3.xyz
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0新加坡_4
     server: ap1-sg.er3.xyz
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0新加坡_5
     server: ap1-sg.er3.xyz
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0新加坡_6
     server: ap1-sg.er3.xyz
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0新加坡_7
     server: ap1-sg.er3.xyz
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0新加坡_8
     server: ap1-sg.er3.xyz
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0美国_1
     server: ap1-us.er3.xyz
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0美国_2
     server: ap1-us.er3.xyz
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0美国_3
     server: ap1-us.er3.xyz
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0美国_4
     server: ap1-us.er3.xyz
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0美国_5
     server: ap1-us.er3.xyz
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0美国_6
     server: ap1-us.er3.xyz
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0美国_7
     server: ap1-us.er3.xyz
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0美国_8
     server: ap1-us.er3.xyz
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0英国_1
     server: ap1-uk.er3.xyz
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0英国_2
     server: ap1-uk.er3.xyz
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0英国_3
     server: ap1-uk.er3.xyz
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0英国_4
     server: ap1-uk.er3.xyz
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0英国_5
     server: ap1-uk.er3.xyz
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0英国_6
     server: ap1-uk.er3.xyz
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0英国_7
     server: ap1-uk.er3.xyz
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0英国_8
     server: ap1-uk.er3.xyz
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0加拿大_1
     server: ap1-ca.er3.xyz
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0加拿大_2
     server: ap1-ca.er3.xyz
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0加拿大_3
     server: ap1-ca.er3.xyz
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0加拿大_4
     server: ap1-ca.er3.xyz
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0加拿大_5
     server: ap1-ca.er3.xyz
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0加拿大_6
     server: ap1-ca.er3.xyz
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0加拿大_7
     server: ap1-ca.er3.xyz
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0加拿大_8
     server: ap1-ca.er3.xyz
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0澳洲_1
     server: ap1-au.er3.xyz
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0澳洲_2
     server: ap1-au.er3.xyz
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0澳洲_3
     server: ap1-au.er3.xyz
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0澳洲_4
     server: ap1-au.er3.xyz
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0澳洲_5
     server: ap1-au.er3.xyz
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0澳洲_6
     server: ap1-au.er3.xyz
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0澳洲_7
     server: ap1-au.er3.xyz
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0澳洲_8
     server: ap1-au.er3.xyz
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_1香港
     server: global.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_1澳洲
     server: global.ap.fastqvpn.com
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_1加拿大
     server: global.ap.fastqvpn.com
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_1德国
     server: global.ap.fastqvpn.com
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_1日本
     server: global.ap.fastqvpn.com
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_1新加坡
     server: global.ap.fastqvpn.com
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_1英国
     server: global.ap.fastqvpn.com
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_1美国
     server: global.ap.fastqvpn.com
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_2香港
     server: tx.wy.fastqvpn.com
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_2澳洲
     server: tx.wy.fastqvpn.com
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_2加拿大
     server: tx.wy.fastqvpn.com
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_2德国
     server: tx.wy.fastqvpn.com
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_2日本
     server: tx.wy.fastqvpn.com
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_2新加坡
     server: tx.wy.fastqvpn.com
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_2英国
     server: tx.wy.fastqvpn.com
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_2美国
     server: tx.wy.fastqvpn.com
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_3香港
     server: a1.er3.xyz
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_3澳洲
     server: a1.er3.xyz
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_3加拿大
     server: a1.er3.xyz
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_3德国
     server: a1.er3.xyz
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_3日本
     server: a1.er3.xyz
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_3新加坡
     server: a1.er3.xyz
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_3英国
     server: a1.er3.xyz
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_3美国
     server: a1.er3.xyz
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_4香港
     server: ap1-ge.er3.xyz
     port: 29980
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_4澳洲
     server: ap1-ge.er3.xyz
     port: 29982
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_4加拿大
     server: ap1-ge.er3.xyz
     port: 29983
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_4德国
     server: ap1-ge.er3.xyz
     port: 29984
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_4日本
     server: ap1-ge.er3.xyz
     port: 29985
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_4新加坡
     server: ap1-ge.er3.xyz
     port: 29986
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_4英国
     server: ap1-ge.er3.xyz
     port: 29987
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y0_4美国
     server: ap1-ge.er3.xyz
     port: 29988
     type: http
-    username: "462976695347970048"
-    password: 99cb512f-c3d2-47e6-bd54-d3b7d684c6c2
+    username: "449650515861569536"
+    password: f1654db5-7f20-413b-ab96-b00416481836
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1香港_1_1000G
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1香港_2
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1香港_3
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1香港_4
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1香港_5
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1日本_1
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1日本_2
     server: ap1-jp.er3.xyz
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1日本_3
     server: ap1-jp.er3.xyz
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1日本_4
     server: ap1-jp.er3.xyz
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1日本_5
     server: ap1-jp.er3.xyz
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1日本_6
     server: ap1-jp.er3.xyz
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1日本_7
     server: ap1-jp.er3.xyz
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1日本_8
     server: ap1-jp.er3.xyz
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1新加坡_1
     server: ap1-sg.er3.xyz
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1新加坡_2
     server: ap1-sg.er3.xyz
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1新加坡_3
     server: ap1-sg.er3.xyz
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1新加坡_4
     server: ap1-sg.er3.xyz
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1新加坡_5
     server: ap1-sg.er3.xyz
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1新加坡_6
     server: ap1-sg.er3.xyz
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1新加坡_7
     server: ap1-sg.er3.xyz
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1新加坡_8
     server: ap1-sg.er3.xyz
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1美国_1
     server: ap1-us.er3.xyz
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1美国_2
     server: ap1-us.er3.xyz
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1美国_3
     server: ap1-us.er3.xyz
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1美国_4
     server: ap1-us.er3.xyz
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1美国_5
     server: ap1-us.er3.xyz
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1美国_6
     server: ap1-us.er3.xyz
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1美国_7
     server: ap1-us.er3.xyz
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1美国_8
     server: ap1-us.er3.xyz
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1英国_1
     server: ap1-uk.er3.xyz
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1英国_2
     server: ap1-uk.er3.xyz
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1英国_3
     server: ap1-uk.er3.xyz
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1英国_4
     server: ap1-uk.er3.xyz
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1英国_5
     server: ap1-uk.er3.xyz
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1英国_6
     server: ap1-uk.er3.xyz
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1英国_7
     server: ap1-uk.er3.xyz
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1英国_8
     server: ap1-uk.er3.xyz
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1加拿大_1
     server: ap1-ca.er3.xyz
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1加拿大_2
     server: ap1-ca.er3.xyz
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1加拿大_3
     server: ap1-ca.er3.xyz
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1加拿大_4
     server: ap1-ca.er3.xyz
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1加拿大_5
     server: ap1-ca.er3.xyz
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1加拿大_6
     server: ap1-ca.er3.xyz
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1加拿大_7
     server: ap1-ca.er3.xyz
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1加拿大_8
     server: ap1-ca.er3.xyz
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1澳洲_1
     server: ap1-au.er3.xyz
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1澳洲_2
     server: ap1-au.er3.xyz
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1澳洲_3
     server: ap1-au.er3.xyz
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1澳洲_4
     server: ap1-au.er3.xyz
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1澳洲_5
     server: ap1-au.er3.xyz
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1澳洲_6
     server: ap1-au.er3.xyz
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1澳洲_7
     server: ap1-au.er3.xyz
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1澳洲_8
     server: ap1-au.er3.xyz
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_1香港
     server: global.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_1澳洲
     server: global.ap.fastqvpn.com
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_1加拿大
     server: global.ap.fastqvpn.com
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_1德国
     server: global.ap.fastqvpn.com
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_1日本
     server: global.ap.fastqvpn.com
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_1新加坡
     server: global.ap.fastqvpn.com
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_1英国
     server: global.ap.fastqvpn.com
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_1美国
     server: global.ap.fastqvpn.com
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_2香港
     server: tx.wy.fastqvpn.com
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_2澳洲
     server: tx.wy.fastqvpn.com
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_2加拿大
     server: tx.wy.fastqvpn.com
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_2德国
     server: tx.wy.fastqvpn.com
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_2日本
     server: tx.wy.fastqvpn.com
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_2新加坡
     server: tx.wy.fastqvpn.com
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_2英国
     server: tx.wy.fastqvpn.com
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_2美国
     server: tx.wy.fastqvpn.com
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_3香港
     server: a1.er3.xyz
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_3澳洲
     server: a1.er3.xyz
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_3加拿大
     server: a1.er3.xyz
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_3德国
     server: a1.er3.xyz
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_3日本
     server: a1.er3.xyz
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_3新加坡
     server: a1.er3.xyz
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_3英国
     server: a1.er3.xyz
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_3美国
     server: a1.er3.xyz
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_4香港
     server: ap1-ge.er3.xyz
     port: 29980
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_4澳洲
     server: ap1-ge.er3.xyz
     port: 29982
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_4加拿大
     server: ap1-ge.er3.xyz
     port: 29983
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_4德国
     server: ap1-ge.er3.xyz
     port: 29984
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_4日本
     server: ap1-ge.er3.xyz
     port: 29985
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_4新加坡
     server: ap1-ge.er3.xyz
     port: 29986
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_4英国
     server: ap1-ge.er3.xyz
     port: 29987
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_O7Y1_4美国
     server: ap1-ge.er3.xyz
     port: 29988
     type: http
-    username: "427156450255568896"
-    password: f1822ef4-5a08-4099-9225-6957879c24c9
+    username: "462012919769468928"
+    password: 055300a5-5b25-435d-bf5e-3171a4b9a3da
     tls: true
     skip-cert-verify: true
   - name: TG@subssr欢迎加入_d0_o_0香港_1_2000G
