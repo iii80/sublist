@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇰🇷 防失效 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s, server: 104.16.167.138, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
+  - {name: 🇰🇷 防失效github.com/Leon406/Sub 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s, server: 104.16.167.138, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
   - {name: 🇺🇲 美国3.heroku, server: irving021.top, port: 443, type: vmess, uuid: ad806487-2d26-4636-98b6-ab85cc8521f7, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: royal-silence-b5c6.2397735843.workers.dev}}
   - {name: 🇷🇺 俄罗斯_7826 |41.34Mb, server: 185.246.154.76, port: 18019, type: vmess, uuid: 7d00ead2-b08a-46d4-80c9-c642d8a9790a, alterId: 64, cipher: auto, tls: false}
   - {name: 🇯🇵 日本_5071, server: a83679f.td.cloudflare.systems, port: 80, type: vmess, uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /t, ws-headers: {Host: a83679f.td.cloudflare.systems}}
@@ -54,7 +54,7 @@ proxies:
   - {name: 🇩🇪 Relay_美国-德国_93 |110.64Mb, server: 104.22.44.50, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 104.22.44.50}}
   - {name: 🇰🇷 韩国-6@1Gbps, server: 104.18.135.208, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
   - {name: 🇰🇷 韩国-20@1Gbps, server: 104.20.81.240, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
-  - {name: 防失效, server: s314.snodes.xyz, port: 80, type: vmess, uuid: a1121be7-6d3a-32c5-8a45-cc43bcd16295, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /panel, ws-headers: {Host: s314.snodes.xyz}}
+  - {name: 防失效github.com/Leon406/Sub, server: s314.snodes.xyz, port: 80, type: vmess, uuid: a1121be7-6d3a-32c5-8a45-cc43bcd16295, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /panel, ws-headers: {Host: s314.snodes.xyz}}
   - {name: 🇩🇪 德国, server: gefree1.free3333.xyz, port: 443, type: vmess, uuid: 6b7c64ca-4b77-4796-bdc6-254ed52a4c53, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /ray, ws-headers: {Host: gefree1.free3333.xyz}}
   - {name: 🇯🇵 日本_5392, server: d0a8692.rc.gladns.com, port: 80, type: vmess, uuid: 57e0cb4d-eae5-48ec-8091-149dc2b309e0, alterId: 32, cipher: auto, tls: false, network: ws, ws-path: /s/d0a8692.fm.apple.com:32667, ws-headers: {Host: d0a8692.rc.gladns.com}}
   - {name: 🇺🇲 【中转】USA/美国 A - 济南联通, server: 119.188.97.1, port: 80, type: vmess, uuid: e5c04139-0d1b-4d09-8718-78feeeaaa057, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 005.cdn.8x.cx.hit.edu.cn}}
@@ -222,7 +222,7 @@ proxies:
   - {name: 虎窝vmess节点10, server: 46.182.107.94, port: 443, type: vmess, uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: 46.182.107.94}}
   - {name: Relay_ |12.85Mb, server: ruml.jjyun.ren, port: 88, type: vmess, uuid: 90cab127-9c02-46f2-8642-c7d230c88355, alterId: 10, cipher: auto, tls: false, network: ws, ws-path: /jjyun, ws-headers: {Host: ruml.jjyun.ren}}
   - {name: 🇳🇱 Pool_荷兰_18 | 8.12Mb, server: 46.182.107.39, port: 443, type: vmess, uuid: d3133484-f2bf-4b0c-8d38-f8e645b67947, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.49696760.xyz}}
-  - {name: 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen 2, server: 120.236.197.89, port: 50003, type: vmess, uuid: 53f853f1-df75-4014-9572-c9677db10dbc, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 120.236.197.89}}
+  - {name: 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别 2, server: 120.236.197.89, port: 50003, type: vmess, uuid: 53f853f1-df75-4014-9572-c9677db10dbc, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 120.236.197.89}}
   - {name: 🇷🇺 俄罗斯 2, server: free-russian01-cdn.xiaohouzi.club, port: 80, type: vmess, uuid: 3d31728e-064d-42b8-b945-f79c008f73fc, alterId: 233, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: free-russian01-cdn.xiaohouzi.club}}
   - {name: kr2-22移动@1Gbps, server: 104.19.45.117, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
   - {name: 🇺🇲 美国 16, server: ac2077.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2077.herokuapp.com}}
@@ -377,7 +377,7 @@ proxies:
   - {name: 🇺🇲 美国 35, server: ac2099.herokuapp.com, port: 443, type: vmess, uuid: d1babe08-f8ac-490b-b66f-9be27467f3cc, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /d1babe08-f8ac-490b-b66f-9be27467f3cc-vmess, ws-headers: {Host: ac2099.herokuapp.com}}
   - {name: 🇺🇲 美国CloudFlare公司CDN节点 72, server: 104.22.44.50, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: 🇺🇲 美国CloudFlare公司CDN节点 67, server: 104.22.3.3, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 防失效 2, server: www.kernels.bid, port: 80, type: vmess, uuid: dccaf9aa-49c9-9588-876e-74a1595b28c2, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: /ws}}
+  - {name: 防失效github.com/Leon406/Sub 2, server: www.kernels.bid, port: 80, type: vmess, uuid: dccaf9aa-49c9-9588-876e-74a1595b28c2, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: /ws}}
   - {name: sg-OVH Hosting-14@1Gbps, server: 104.22.3.3, port: 443, type: vmess, uuid: d96e0bc9-e1d9-4715-ae3f-39dac55b9e44, alterId: 34, cipher: auto, tls: true, network: ws, ws-path: /9e1cb04e/, ws-headers: {Host: edozvpn.xyz}}
   - {name: 🇺🇲 Relay_-美国_1723, server: euserv3p.ezddns.tk, port: 443, type: vmess, uuid: 356ed062-4f58-49c3-bd44-c0b6db1c94ee, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /stream, ws-headers: {Host: euserv3p.ezddns.tk}}
   - {name: sg-OVH Hosting-26@1Gbps, server: 104.16.182.15, port: 443, type: vmess, uuid: d96e0bc9-e1d9-4715-ae3f-39dac55b9e44, alterId: 34, cipher: auto, tls: true, network: ws, ws-path: /9e1cb04e/, ws-headers: {Host: edozvpn.xyz}}
@@ -422,7 +422,7 @@ proxies:
   - {name: kr2-9@1Gbps 2, server: 104.16.160.114, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
   - {name: 🇺🇲 美国_12057 |127.90Mb, server: 104.16.160.114, port: 443, type: vmess, uuid: 5f4b2e42-ff2b-4342-86fc-b7ba1b5361e8, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: 104.16.160.114}}
   - {name: kr2-19@1Gbps, server: 104.25.175.69, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
-  - {name: 防失效 3, server: 198.41.214.72, port: 80, type: vmess, uuid: a1121be7-6d3a-32c5-8a45-cc43bcd16295, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /panel, ws-headers: {Host: s119.snodes.xyz}}
+  - {name: 防失效github.com/Leon406/Sub 3, server: 198.41.214.72, port: 80, type: vmess, uuid: a1121be7-6d3a-32c5-8a45-cc43bcd16295, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /panel, ws-headers: {Host: s119.snodes.xyz}}
   - {name: 🇺🇲 美国加利福尼亚州洛杉矶PetaExpress 13, server: 198.2.200.217, port: 443, type: vmess, uuid: 2a23dbd5-09cf-4aa8-a835-3230728c4973, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/290516321830, ws-headers: {Host: www.48168443.xyz}}
   - {name: SSR 2, server: euserv10p.ezddns.tk, port: 80, type: vmess, uuid: 4323a38e-29dc-4c6d-f436-b15114e57a75, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /download.zip, ws-headers: {Host: euserv10p.ezddns.tk}}
   - {name: 🇨🇦 Relay_美国-加拿大_621, server: 104.16.207.196, port: 443, type: vmess, uuid: d96e0bc9-e1d9-4715-ae3f-39dac55b9e44, alterId: 34, cipher: auto, tls: false, network: ws, ws-path: /9e1cb04e/, ws-headers: {Host: 104.16.207.196}}
@@ -465,7 +465,7 @@ proxies:
   - {name: 🇯🇵 【中转】JPN/日本 A - 济南联通, server: 119.188.97.1, port: 80, type: vmess, uuid: e5c04139-0d1b-4d09-8718-78feeeaaa057, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 006.cdn.8x.cx.hit.edu.cn}}
   - {name: Relay_ |39.86Mb, server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 172.67.154.85}}
   - {name: 🇺🇲 美国_12036 |66.26Mb, server: 72.44.74.98, port: 443, type: vmess, uuid: 81295af2-bcd2-0d7e-8bc4-f1367049cf95, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /gafnvws, ws-headers: {Host: 72.44.74.98}}
-  - {name: 防失效 4, server: www.kernels.bid, port: 443, type: vmess, uuid: 30914ab8-fc99-738f-e569-9e08dd257df6, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: /ws}}
+  - {name: 防失效github.com/Leon406/Sub 4, server: www.kernels.bid, port: 443, type: vmess, uuid: 30914ab8-fc99-738f-e569-9e08dd257df6, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: /ws}}
   - {name: 🇰🇷 韩国-13@1Gbps, server: 104.21.239.147, port: 443, type: vmess, uuid: a9cd126a-7c05-41af-ad0e-a185eabc89c8, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson.cf}}
   - {name: kr2-10@1Gbps, server: 104.16.110.238, port: 443, type: vmess, uuid: 1a54e756-d454-45a0-aefa-e9514e1da1f1, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: /The-Great-Awakening_vws, ws-headers: {Host: vincent-jackson2021.cf}}
   - {name: 🇳🇱 荷兰 13, server: 154.84.1.217, port: 443, type: vmess, uuid: 130c9f2e-42b1-4ebf-b345-e26456a061f9, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: www.05222027.xyz}}
@@ -539,7 +539,7 @@ proxies:
   - {name: yy-jz-iplc-02.ddns-only.xyz:20298-V2--1819151692, server: yy-jz-iplc-02.ddns-only.xyz, port: 20298, type: vmess, uuid: 9a8829d9-3a76-32cd-9d11-ba5e725b186f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /yy666666, ws-headers: {Host: yy-jz-iplc-02.ddns-only.xyz}}
   - {name: 🇭🇰 香港 14, server: 104.19.45.116, port: 443, type: vmess, uuid: dbb1253f-c663-42b0-a3bf-ceae0e8d0e46, alterId: 4, cipher: auto, tls: true, network: ws, ws-path: /ceae0e8d0e46, ws-headers: {Host: 35044ac9a120f4dd5.spbohk.com}}
   - {name: 🇺🇲 美国 14 2, server: 198.2.200.217, port: 443, type: vmess, uuid: 2a23dbd5-09cf-4aa8-a835-3230728c4973, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /path/290516321830, ws-headers: {Host: www.48168443.xyz}}
-  - {name: 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen, server: cm-jm.okvpn.cc, port: 20001, type: vmess, uuid: 94a60d56-10ee-4796-a072-25fc8d9a52b8, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.cc}}
+  - {name: 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别, server: cm-jm.okvpn.cc, port: 20001, type: vmess, uuid: 94a60d56-10ee-4796-a072-25fc8d9a52b8, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.cc}}
   - {name: V80, server: us2021071901.herokuapp.com, port: 443, type: vmess, uuid: 550218a3-2b2f-4e64-862e-84e0ee3043f6, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /static, ws-headers: {Host: us2021071901.herokuapp.com}}
   - {name: sg-OVH Hosting-24@1Gbps, server: 104.21.76.229, port: 443, type: vmess, uuid: d96e0bc9-e1d9-4715-ae3f-39dac55b9e44, alterId: 34, cipher: auto, tls: true, network: ws, ws-path: /9e1cb04e/, ws-headers: {Host: edozvpn.xyz}}
   - {name: 🇺🇲 美国_2415 |24.28Mb, server: 15.152.48.124, port: 39845, type: vmess, uuid: fcf47cd1-b4c5-4950-afcf-da40564ffc49, alterId: 64, cipher: auto, tls: false}
@@ -757,7 +757,7 @@ proxies:
   - {name: 🇳🇱 NL_3056, server: 46.182.107.44, port: 443, type: vmess, uuid: fe5f69e7-e183-439b-950b-8221ef0651f2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /footers, ws-headers: {Host: 46.182.107.44}}
   - {name: sg-OVH Hosting-3@1Gbps, server: icook.tw, port: 443, type: vmess, uuid: d96e0bc9-e1d9-4715-ae3f-39dac55b9e44, alterId: 34, cipher: auto, tls: true, network: ws, ws-path: /9e1cb04e/, ws-headers: {Host: edozvpn.xyz}}
   - {name: 🇩🇪 德国_2604 |52.02Mb, server: 18.193.122.123, port: 25275, type: vmess, uuid: eebfe76a-c71f-49e4-f983-983384d5dadf, alterId: 64, cipher: auto, tls: false}
-  - {name: _0.防失效, server: fzusrs.xyz, port: 443, type: vmess, uuid: 119f999c-2cf9-36cd-bf7b-08fdf66dbd45, alterId: 0, cipher: auto, tls: false}
+  - {name: _0.防失效github.com/Leon406/Sub, server: fzusrs.xyz, port: 443, type: vmess, uuid: 119f999c-2cf9-36cd-bf7b-08fdf66dbd45, alterId: 0, cipher: auto, tls: false}
   - {name: 🇨🇳 台湾 9, server: tw01.v2net.top, port: 10086, type: vmess, uuid: A4D23E56-B6DC-86EF-DC94-E28FF7355D1F, alterId: 0, cipher: auto, tls: false}
   - {name: v6, server: qq1.feiclouddd.me, port: 443, type: vmess, uuid: 3621eb66-1049-4e86-b0e3-d1643ccacd7c, alterId: 60, cipher: auto, tls: true, network: ws, ws-path: /asdfasdf, ws-headers: {Host: qq1.feiclouddd.me}}
   - {name: 🇺🇲 美国 77, server: 154.84.1.31, port: 443, type: vmess, uuid: 82e9f17c-cac2-45da-9c07-2967980a32a6, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: www.00225384.xyz}}
@@ -1068,7 +1068,7 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - 🇰🇷 防失效 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - 🇰🇷 防失效github.com/Leon406/Sub 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
       - 🇺🇲 美国3.heroku
       - 🇷🇺 俄罗斯_7826 |41.34Mb
       - 🇯🇵 日本_5071
@@ -1117,7 +1117,7 @@ proxy-groups:
       - 🇩🇪 Relay_美国-德国_93 |110.64Mb
       - 🇰🇷 韩国-6@1Gbps
       - 🇰🇷 韩国-20@1Gbps
-      - 防失效
+      - 防失效github.com/Leon406/Sub
       - 🇩🇪 德国
       - 🇯🇵 日本_5392
       - 🇺🇲 【中转】USA/美国 A - 济南联通
@@ -1285,7 +1285,7 @@ proxy-groups:
       - 虎窝vmess节点10
       - Relay_ |12.85Mb
       - 🇳🇱 Pool_荷兰_18 | 8.12Mb
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen 2
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别 2
       - 🇷🇺 俄罗斯 2
       - kr2-22移动@1Gbps
       - 🇺🇲 美国 16
@@ -1440,7 +1440,7 @@ proxy-groups:
       - 🇺🇲 美国 35
       - 🇺🇲 美国CloudFlare公司CDN节点 72
       - 🇺🇲 美国CloudFlare公司CDN节点 67
-      - 防失效 2
+      - 防失效github.com/Leon406/Sub 2
       - sg-OVH Hosting-14@1Gbps
       - 🇺🇲 Relay_-美国_1723
       - sg-OVH Hosting-26@1Gbps
@@ -1485,7 +1485,7 @@ proxy-groups:
       - kr2-9@1Gbps 2
       - 🇺🇲 美国_12057 |127.90Mb
       - kr2-19@1Gbps
-      - 防失效 3
+      - 防失效github.com/Leon406/Sub 3
       - 🇺🇲 美国加利福尼亚州洛杉矶PetaExpress 13
       - SSR 2
       - 🇨🇦 Relay_美国-加拿大_621
@@ -1528,7 +1528,7 @@ proxy-groups:
       - 🇯🇵 【中转】JPN/日本 A - 济南联通
       - Relay_ |39.86Mb
       - 🇺🇲 美国_12036 |66.26Mb
-      - 防失效 4
+      - 防失效github.com/Leon406/Sub 4
       - 🇰🇷 韩国-13@1Gbps
       - kr2-10@1Gbps
       - 🇳🇱 荷兰 13
@@ -1602,7 +1602,7 @@ proxy-groups:
       - yy-jz-iplc-02.ddns-only.xyz:20298-V2--1819151692
       - 🇭🇰 香港 14
       - 🇺🇲 美国 14 2
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别
       - V80
       - sg-OVH Hosting-24@1Gbps
       - 🇺🇲 美国_2415 |24.28Mb
@@ -1820,7 +1820,7 @@ proxy-groups:
       - 🇳🇱 NL_3056
       - sg-OVH Hosting-3@1Gbps
       - 🇩🇪 德国_2604 |52.02Mb
-      - _0.防失效
+      - _0.防失效github.com/Leon406/Sub
       - 🇨🇳 台湾 9
       - v6
       - 🇺🇲 美国 77
@@ -2129,7 +2129,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇰🇷 防失效 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - 🇰🇷 防失效github.com/Leon406/Sub 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
       - 🇺🇲 美国3.heroku
       - 🇷🇺 俄罗斯_7826 |41.34Mb
       - 🇯🇵 日本_5071
@@ -2178,7 +2178,7 @@ proxy-groups:
       - 🇩🇪 Relay_美国-德国_93 |110.64Mb
       - 🇰🇷 韩国-6@1Gbps
       - 🇰🇷 韩国-20@1Gbps
-      - 防失效
+      - 防失效github.com/Leon406/Sub
       - 🇩🇪 德国
       - 🇯🇵 日本_5392
       - 🇺🇲 【中转】USA/美国 A - 济南联通
@@ -2346,7 +2346,7 @@ proxy-groups:
       - 虎窝vmess节点10
       - Relay_ |12.85Mb
       - 🇳🇱 Pool_荷兰_18 | 8.12Mb
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen 2
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别 2
       - 🇷🇺 俄罗斯 2
       - kr2-22移动@1Gbps
       - 🇺🇲 美国 16
@@ -2501,7 +2501,7 @@ proxy-groups:
       - 🇺🇲 美国 35
       - 🇺🇲 美国CloudFlare公司CDN节点 72
       - 🇺🇲 美国CloudFlare公司CDN节点 67
-      - 防失效 2
+      - 防失效github.com/Leon406/Sub 2
       - sg-OVH Hosting-14@1Gbps
       - 🇺🇲 Relay_-美国_1723
       - sg-OVH Hosting-26@1Gbps
@@ -2546,7 +2546,7 @@ proxy-groups:
       - kr2-9@1Gbps 2
       - 🇺🇲 美国_12057 |127.90Mb
       - kr2-19@1Gbps
-      - 防失效 3
+      - 防失效github.com/Leon406/Sub 3
       - 🇺🇲 美国加利福尼亚州洛杉矶PetaExpress 13
       - SSR 2
       - 🇨🇦 Relay_美国-加拿大_621
@@ -2589,7 +2589,7 @@ proxy-groups:
       - 🇯🇵 【中转】JPN/日本 A - 济南联通
       - Relay_ |39.86Mb
       - 🇺🇲 美国_12036 |66.26Mb
-      - 防失效 4
+      - 防失效github.com/Leon406/Sub 4
       - 🇰🇷 韩国-13@1Gbps
       - kr2-10@1Gbps
       - 🇳🇱 荷兰 13
@@ -2663,7 +2663,7 @@ proxy-groups:
       - yy-jz-iplc-02.ddns-only.xyz:20298-V2--1819151692
       - 🇭🇰 香港 14
       - 🇺🇲 美国 14 2
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别
       - V80
       - sg-OVH Hosting-24@1Gbps
       - 🇺🇲 美国_2415 |24.28Mb
@@ -2881,7 +2881,7 @@ proxy-groups:
       - 🇳🇱 NL_3056
       - sg-OVH Hosting-3@1Gbps
       - 🇩🇪 德国_2604 |52.02Mb
-      - _0.防失效
+      - _0.防失效github.com/Leon406/Sub
       - 🇨🇳 台湾 9
       - v6
       - 🇺🇲 美国 77
@@ -3189,7 +3189,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 🇰🇷 防失效 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - 🇰🇷 防失效github.com/Leon406/Sub 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
       - 🇺🇲 美国3.heroku
       - 🇷🇺 俄罗斯_7826 |41.34Mb
       - 🇯🇵 日本_5071
@@ -3238,7 +3238,7 @@ proxy-groups:
       - 🇩🇪 Relay_美国-德国_93 |110.64Mb
       - 🇰🇷 韩国-6@1Gbps
       - 🇰🇷 韩国-20@1Gbps
-      - 防失效
+      - 防失效github.com/Leon406/Sub
       - 🇩🇪 德国
       - 🇯🇵 日本_5392
       - 🇺🇲 【中转】USA/美国 A - 济南联通
@@ -3406,7 +3406,7 @@ proxy-groups:
       - 虎窝vmess节点10
       - Relay_ |12.85Mb
       - 🇳🇱 Pool_荷兰_18 | 8.12Mb
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen 2
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别 2
       - 🇷🇺 俄罗斯 2
       - kr2-22移动@1Gbps
       - 🇺🇲 美国 16
@@ -3561,7 +3561,7 @@ proxy-groups:
       - 🇺🇲 美国 35
       - 🇺🇲 美国CloudFlare公司CDN节点 72
       - 🇺🇲 美国CloudFlare公司CDN节点 67
-      - 防失效 2
+      - 防失效github.com/Leon406/Sub 2
       - sg-OVH Hosting-14@1Gbps
       - 🇺🇲 Relay_-美国_1723
       - sg-OVH Hosting-26@1Gbps
@@ -3606,7 +3606,7 @@ proxy-groups:
       - kr2-9@1Gbps 2
       - 🇺🇲 美国_12057 |127.90Mb
       - kr2-19@1Gbps
-      - 防失效 3
+      - 防失效github.com/Leon406/Sub 3
       - 🇺🇲 美国加利福尼亚州洛杉矶PetaExpress 13
       - SSR 2
       - 🇨🇦 Relay_美国-加拿大_621
@@ -3649,7 +3649,7 @@ proxy-groups:
       - 🇯🇵 【中转】JPN/日本 A - 济南联通
       - Relay_ |39.86Mb
       - 🇺🇲 美国_12036 |66.26Mb
-      - 防失效 4
+      - 防失效github.com/Leon406/Sub 4
       - 🇰🇷 韩国-13@1Gbps
       - kr2-10@1Gbps
       - 🇳🇱 荷兰 13
@@ -3723,7 +3723,7 @@ proxy-groups:
       - yy-jz-iplc-02.ddns-only.xyz:20298-V2--1819151692
       - 🇭🇰 香港 14
       - 🇺🇲 美国 14 2
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别
       - V80
       - sg-OVH Hosting-24@1Gbps
       - 🇺🇲 美国_2415 |24.28Mb
@@ -3941,7 +3941,7 @@ proxy-groups:
       - 🇳🇱 NL_3056
       - sg-OVH Hosting-3@1Gbps
       - 🇩🇪 德国_2604 |52.02Mb
-      - _0.防失效
+      - _0.防失效github.com/Leon406/Sub
       - 🇨🇳 台湾 9
       - v6
       - 🇺🇲 美国 77
@@ -4249,7 +4249,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - 🇰🇷 防失效 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - 🇰🇷 防失效github.com/Leon406/Sub 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
       - 🇺🇲 美国3.heroku
       - 🇷🇺 俄罗斯_7826 |41.34Mb
       - 🇯🇵 日本_5071
@@ -4298,7 +4298,7 @@ proxy-groups:
       - 🇩🇪 Relay_美国-德国_93 |110.64Mb
       - 🇰🇷 韩国-6@1Gbps
       - 🇰🇷 韩国-20@1Gbps
-      - 防失效
+      - 防失效github.com/Leon406/Sub
       - 🇩🇪 德国
       - 🇯🇵 日本_5392
       - 🇺🇲 【中转】USA/美国 A - 济南联通
@@ -4466,7 +4466,7 @@ proxy-groups:
       - 虎窝vmess节点10
       - Relay_ |12.85Mb
       - 🇳🇱 Pool_荷兰_18 | 8.12Mb
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen 2
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别 2
       - 🇷🇺 俄罗斯 2
       - kr2-22移动@1Gbps
       - 🇺🇲 美国 16
@@ -4621,7 +4621,7 @@ proxy-groups:
       - 🇺🇲 美国 35
       - 🇺🇲 美国CloudFlare公司CDN节点 72
       - 🇺🇲 美国CloudFlare公司CDN节点 67
-      - 防失效 2
+      - 防失效github.com/Leon406/Sub 2
       - sg-OVH Hosting-14@1Gbps
       - 🇺🇲 Relay_-美国_1723
       - sg-OVH Hosting-26@1Gbps
@@ -4666,7 +4666,7 @@ proxy-groups:
       - kr2-9@1Gbps 2
       - 🇺🇲 美国_12057 |127.90Mb
       - kr2-19@1Gbps
-      - 防失效 3
+      - 防失效github.com/Leon406/Sub 3
       - 🇺🇲 美国加利福尼亚州洛杉矶PetaExpress 13
       - SSR 2
       - 🇨🇦 Relay_美国-加拿大_621
@@ -4709,7 +4709,7 @@ proxy-groups:
       - 🇯🇵 【中转】JPN/日本 A - 济南联通
       - Relay_ |39.86Mb
       - 🇺🇲 美国_12036 |66.26Mb
-      - 防失效 4
+      - 防失效github.com/Leon406/Sub 4
       - 🇰🇷 韩国-13@1Gbps
       - kr2-10@1Gbps
       - 🇳🇱 荷兰 13
@@ -4783,7 +4783,7 @@ proxy-groups:
       - yy-jz-iplc-02.ddns-only.xyz:20298-V2--1819151692
       - 🇭🇰 香港 14
       - 🇺🇲 美国 14 2
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别
       - V80
       - sg-OVH Hosting-24@1Gbps
       - 🇺🇲 美国_2415 |24.28Mb
@@ -5001,7 +5001,7 @@ proxy-groups:
       - 🇳🇱 NL_3056
       - sg-OVH Hosting-3@1Gbps
       - 🇩🇪 德国_2604 |52.02Mb
-      - _0.防失效
+      - _0.防失效github.com/Leon406/Sub
       - 🇨🇳 台湾 9
       - v6
       - 🇺🇲 美国 77
@@ -5323,7 +5323,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - 🇰🇷 防失效 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
+      - 🇰🇷 防失效github.com/Leon406/Sub 韩国-31 满 足  2000 Mbps带 宽 需求峰值 速 度  269312 kB/s
       - 🇺🇲 美国3.heroku
       - 🇷🇺 俄罗斯_7826 |41.34Mb
       - 🇯🇵 日本_5071
@@ -5372,7 +5372,7 @@ proxy-groups:
       - 🇩🇪 Relay_美国-德国_93 |110.64Mb
       - 🇰🇷 韩国-6@1Gbps
       - 🇰🇷 韩国-20@1Gbps
-      - 防失效
+      - 防失效github.com/Leon406/Sub
       - 🇩🇪 德国
       - 🇯🇵 日本_5392
       - 🇺🇲 【中转】USA/美国 A - 济南联通
@@ -5540,7 +5540,7 @@ proxy-groups:
       - 虎窝vmess节点10
       - Relay_ |12.85Mb
       - 🇳🇱 Pool_荷兰_18 | 8.12Mb
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen 2
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别 2
       - 🇷🇺 俄罗斯 2
       - kr2-22移动@1Gbps
       - 🇺🇲 美国 16
@@ -5695,7 +5695,7 @@ proxy-groups:
       - 🇺🇲 美国 35
       - 🇺🇲 美国CloudFlare公司CDN节点 72
       - 🇺🇲 美国CloudFlare公司CDN节点 67
-      - 防失效 2
+      - 防失效github.com/Leon406/Sub 2
       - sg-OVH Hosting-14@1Gbps
       - 🇺🇲 Relay_-美国_1723
       - sg-OVH Hosting-26@1Gbps
@@ -5740,7 +5740,7 @@ proxy-groups:
       - kr2-9@1Gbps 2
       - 🇺🇲 美国_12057 |127.90Mb
       - kr2-19@1Gbps
-      - 防失效 3
+      - 防失效github.com/Leon406/Sub 3
       - 🇺🇲 美国加利福尼亚州洛杉矶PetaExpress 13
       - SSR 2
       - 🇨🇦 Relay_美国-加拿大_621
@@ -5783,7 +5783,7 @@ proxy-groups:
       - 🇯🇵 【中转】JPN/日本 A - 济南联通
       - Relay_ |39.86Mb
       - 🇺🇲 美国_12036 |66.26Mb
-      - 防失效 4
+      - 防失效github.com/Leon406/Sub 4
       - 🇰🇷 韩国-13@1Gbps
       - kr2-10@1Gbps
       - 🇳🇱 荷兰 13
@@ -5857,7 +5857,7 @@ proxy-groups:
       - yy-jz-iplc-02.ddns-only.xyz:20298-V2--1819151692
       - 🇭🇰 香港 14
       - 🇺🇲 美国 14 2
-      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen
+      - 🇭🇰 2021.07.27|中国香港/中国台湾(CN)China/Shenzhen/小东的程序未能精准识别
       - V80
       - sg-OVH Hosting-24@1Gbps
       - 🇺🇲 美国_2415 |24.28Mb
@@ -6075,7 +6075,7 @@ proxy-groups:
       - 🇳🇱 NL_3056
       - sg-OVH Hosting-3@1Gbps
       - 🇩🇪 德国_2604 |52.02Mb
-      - _0.防失效
+      - _0.防失效github.com/Leon406/Sub
       - 🇨🇳 台湾 9
       - v6
       - 🇺🇲 美国 77
